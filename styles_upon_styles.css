@@ -1,0 +1,246 @@
+body {
+	background-color: #f3f3f3;
+	color: black;
+	font-family: garamond, serif;
+}
+
+/* The name_bar is for my name at the top, and has special intra-word spacing.*/
+#name_bar ul li {
+	padding-right: 9px;
+	word-spacing: 3px;
+}
+
+/* Generic menu styling */
+
+div.menu {
+	font-family: garamond, serif;
+	margin: 30px 0px;
+	font-size: default;
+	clear: both;
+	width: 50em;
+}
+
+div.menu p {
+	padding-left: 30px;
+	padding-bottom: 0px;
+}
+
+div.menu ul {
+	list-style-type: none;
+	font-size: 1em;
+	height: 40px;
+	padding: 0;
+}
+
+div.menu ul li {
+	float: left;
+/*	margin: 0;
+	display: block;	*/
+	padding: 0 20px 0 0px;
+	line-height: 20px;	
+}
+
+/* Some sub-menus will be offset from the left for heirarchical emphasis */
+div.sub_menu {
+	padding-left: 30px;
+}
+
+/* Some menus ought to be presented as vertical lists */
+div.list_menu ul li {
+	float: none;
+	padding-bottom: 5px;
+}
+
+/* This is a styling so that menu titles can have the same font as what's in the menu. */
+p.formenu {
+	font-size: 20px;
+	font-family: garamond, serif;
+	font-color: #666;
+	padding-left: 3px;
+}
+
+h1 { font-family: garamond, serif;}
+
+a {	text-decoration: none; }
+
+a:link { color: #f66; }
+
+a:visited {	color: #722; }
+
+a:active, a:hover {	background-color:black; color: #f66;}
+
+a:link.hideit {
+	color: black;
+	text-decoration: none;
+}
+
+ul {
+	margin-top: 0em;
+}
+
+li {
+	list-style-type: none;
+}
+
+.bullet li {
+	list-style-type: disc;
+}
+
+.reference li {
+	text-indent: -20px;
+}
+
+.code {
+	font-family: Courier;
+	font-size: 80%;
+}
+
+.blog {
+	width: 1000px;
+}
+
+
+.blog img {
+	width: 80%;
+	border: 1px solid black;
+	margin: 0 0 8px 0;
+}
+
+img.portrait {
+	width: 60%;
+}
+
+.five_cols {
+	text-align: center;
+}
+.five_cols img {
+	width: 25%;
+	border: 1px solid black;
+	margin: 0 5px 8px;
+} 
+
+.blogpost {
+	float: left;
+	background: #d3d3d3;
+	margin: 20px 10%;
+	padding: 20px 20px 12px 20px;
+}
+
+.blogpost_linkonly {
+	background: inherit;
+}
+
+.blogpost h2 {
+	font-family: Arial, sans-serif;
+	margin: 0;
+}
+
+.blogpost h3 {
+	font-family: Arial, sans-serif;
+	margin: 0 0 10px 0;
+}
+
+.blogpost p, object, li {
+	margin: 0 0 8px 0;
+}
+
+
+p {
+	margin-bottom: 0.5em;
+}
+
+.citation {
+	padding-left: 3em;
+	text-indent: -2em;
+	margin-bottom: 0.5em;
+}
+
+.resume p {
+	clear:both;
+	padding-top: 1em;
+}
+
+.resume dt {
+	float: left;
+	clear: left;
+	width: 8em;
+	text-align: right;
+	margin: 0 1em 0.3em 0;
+}
+
+.resume dd {
+	float: left;
+	clear: right;
+	width: 70%;
+	text-align: left;
+	margin: 0 0 0.3em 0;
+}
+
+#fancy_bibliography {
+	width: 40em;
+}
+
+#fancy_bibliography h1,h2,h3,h4,h5,h6,p {
+	margin-bottom: 0.5em;
+}
+
+#fancy_bibliography h1 {
+	font-size: 1.5em;
+}
+#fancy_bibliography h2 {
+	font-size: 1.2em;
+}
+#fancy_bibliography h3 {
+	font-size: 1em;
+}
+
+dl#bibliography {
+	margin-left: 10pt;
+	text-indent: -10pt;
+}
+
+div.item_header {
+	float: left;
+	clear: left;
+	width: 8em;
+	margin: 0.5em;
+}
+
+div.item_content_wrapper {
+	float: left;
+	width: 40em;
+	margin: 0.5em;
+}
+
+div.item_content_wrapper h1,h2,h3,h4,h5,h6,p,ul,li {
+	margin: 0;
+	padding-bottom: 0.5em;
+}
+
+div.item_content_wrapper ul,li {
+	padding-bottom: 0.3em;
+}
+
+div.copyright_right {
+	float: right;
+/*	clear: none;*/
+	width: 11em;
+	margin: 0.5em 0.5em 0.5em 1.5em;
+}
+
+div.page_content_wrapper {
+	width: 50em;
+}
+
+/*
+div.item_header_2nd {
+	float: left;
+	width: 8em;
+	margin: 0 0.5em;	
+}
+
+div.item_content_wrapper_2nd {
+	float:left;
+	width: 22em;
+	margin: 0 0.5em;
+}*/
