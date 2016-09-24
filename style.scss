@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  background: $lightGray;
+  font-size: 18px;
+  font-family: garamond, serif;
+  color: $black;
 }
 
 .container {
@@ -31,8 +32,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: garamond;
+  color: $black;
   font-weight: bold;
 
   line-height: 1.7;
@@ -75,6 +76,24 @@ a {
   &:hover, &:active {
     color: $blue;
   }
+}
+
+a {
+  text-decoration: none;
+  &:link {
+	color: #d22;
+  }
+  &:visited {
+	color: #900;
+  }
+  &:active, &:hover {
+	background-color: #fee;
+  }
+}
+
+a:link.hideit {
+	color: black;
+	text-decoration: none;
 }
 
 ul, ol {
@@ -194,9 +213,9 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 28px;
+  font-family: garamond;
+  font-weight: 500;
+  font-size: 30px;
   letter-spacing: 1px;
 }
 
@@ -211,9 +230,10 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  float: left;
+  clear: left;
+  # margin-top: 23px; // @TODO: Vertically middle align
+  font-family: garamond;
   font-size: 18px;
 
   @include mobile {
@@ -224,7 +244,7 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+    margin-right: 20px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
@@ -293,9 +313,9 @@ footer {
 dt {
 	float: left;
 	clear: left;
-	width: 22%;
+	width: 20%;
 	text-align: right;
-	margin: 0 3% 0.3em 0;
+	margin: 0 5% 0.3em 0;
 }
 
 dd {
@@ -303,6 +323,6 @@ dd {
 	clear: right;
 	width: 75%;
 	text-align: left;
-	margin: 0 0 0.3em 0;
+	margin: 0 0 0.5em 0;
 }
 
