@@ -10,6 +10,11 @@ My previous research focused on musical structure—i.e., the abstract form of a
 
 Before finishing my Ph.D. at Queen Mary University of London, I completed Master's degrees at USC (in Operations Research) and at McGill University (in Music Technology). At McGill, as part of the SALAMI project, I studied the annotation of musical structure. As a result, I've become deeply interested in what information these annotations actually contain and how we can understand them better.
 
+### [Tumblr](https://jblsmith.tumblr.com)
+
+I post pictures of food (of course) and other things on Tumblr.
+<script type="text/javascript" src="http://jblsmith.tumblr.com/js?start=0&num=1"></script>
+
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
