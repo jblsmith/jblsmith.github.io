@@ -11,25 +11,25 @@ permalink: /publications/
 
 ### Peer reviewed journal and conference articles:
 
-[PDF]({{ site.assetsurl }}/smith2015-smc-crosssong_puzzle.pdf), [BIB]({{ site.assetsurl }}/smith2015-smc-crosssong_puzzle.bib), [Project page](https://staff.aist.go.jp/jun.kato/CrossSong/)
+[PDF]({{ site.assetsurl }}/smith2015-smc-crosssong_puzzle.pdf), [BIB]({{ site.assetsurl }}/smith2015-smc-crosssong_puzzle.bib), [Website](https://staff.aist.go.jp/jun.kato/CrossSong/)
 :	Smith, J. B. L., G. Percival, J. Kato, M. Goto, and S. Fukayama. 2015. CrossSong Puzzle: Generating and unscrambling music mashups with real-time interactivity. *Proceedings of the Sound and Music Computing Conference*. 61--7. Winner of the Best Paper Award at SMC!
 
-[Online text](http://www.mtosmt.org/issues/mto.14.20.3/mto.14.20.3.smith_schankler_chew.php), [BIB]({{ site.assetsurl }}/smith2014-mto-listening_as_a_creative_act.bib), [Project page]({{ site.baseurl }}/mimi-analysis/index.shtml)
+[Online text](http://www.mtosmt.org/issues/mto.14.20.3/mto.14.20.3.smith_schankler_chew.php), [BIB]({{ site.assetsurl }}/smith2014-mto-listening_as_a_creative_act.bib), [Website]({{ site.baseurl }}/mimi-analysis/index.shtml)
 :	Smith, J. B. L., I. Schankler, and E. Chew. 2014. Listening as a creative act: Meaningful differences in structural annotations of improvised performances. *Music Theory Online*. 20: 3.
 
-[PDF (pre-print)]({{ site.assetsurl }}/smith2014-ieee-audio_properties.pdf), [BIB]({{ site.assetsurl }}/smith2014-ieee-audio_properties.bib), [Project page]({{ site.assetsurl }}/)
+[PDF (pre-print)]({{ site.assetsurl }}/smith2014-ieee-audio_properties.pdf), [BIB]({{ site.assetsurl }}/smith2014-ieee-audio_properties.bib), [Website]({{ site.assetsurl }}/)
 :	Smith, J. B. L., C.-H. Chuan, and E. Chew. 2014 (submitted in 2012). Audio properties of perceived boundaries in music. *IEEE Transactions on Multimedia* 16: 5. 1219--28. Published version available at [IEEE Xplore](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6762890).
 
-[PDF]({{ site.assetsurl }}/smith2013-ismir-mirex_meta_analysis.pdf), [BIB]({{ site.assetsurl }}/smith2013-ismir-mirex_meta_analysis.bib), [Poster]({{ site.assetsurl }}/smith2013-ismir-mirex_meta_analysis-poster.pdf), [Project page]({{ site.assetsurl }}/)
+[PDF]({{ site.assetsurl }}/smith2013-ismir-mirex_meta_analysis.pdf), [BIB]({{ site.assetsurl }}/smith2013-ismir-mirex_meta_analysis.bib), [Poster]({{ site.assetsurl }}/smith2013-ismir-mirex_meta_analysis-poster.pdf), [Website]({{ site.assetsurl }}/)
 :	Smith, J. B. L., and E. Chew. 2013. A meta-analysis of the MIREX Structural Segmentation task. *Proceedings of the International Society for Music Information Retrieval Conference*. 251--6.
 
-[PDF]({{ site.assetsurl }}/smith2013-acm-estimating_feature_relevance.pdf), [BIB]({{ site.assetsurl }}/smith2013-acm-estimating_feature_relevance.bib), [Video](https://vimeo.com/77448578), [Project page]({{ site.assetsurl }}/)
+[PDF]({{ site.assetsurl }}/smith2013-acm-estimating_feature_relevance.pdf), [BIB]({{ site.assetsurl }}/smith2013-acm-estimating_feature_relevance.bib), [Video](https://vimeo.com/77448578), [Website]({{ site.assetsurl }}/)
 :	Smith, J. B. L., and E. Chew. 2013. Using Quadratic Programming to estimate feature relevance in structural analyses of music. *Proceedings of the ACM International Conference on Multimedia*. 113-22.
 
 [PDF]({{ site.assetsurl }}/terrell2012-ismir-listening_level.pdf), [BIB]({{ site.assetsurl }}/terrell2012-ismir-listening_level.bib)
 :	Terrell, Michael J., G. Fazekas, A. J. R. Simpson, J. B. L. Smith, and S. Dixon. 2012. Listening level changes music similarity. *Proceedings of the International Society for Music Information Retrieval Conference*. 487--92.
 
-[PDF]({{ site.assetsurl }}/smith2011-ismir-design_and_creation.pdf), [BIB]({{ site.assetsurl }}/smith2011-ismir-design_and_creation.bib), [Project page]({{ site.assetsurl }}/)
+[PDF]({{ site.assetsurl }}/smith2011-ismir-design_and_creation.pdf), [BIB]({{ site.assetsurl }}/smith2011-ismir-design_and_creation.bib), [Website]({{ site.assetsurl }}/)
 :	Smith, J. B. L., J. A. Burgoyne, I. Fujinaga, D. De Roure and J. S. Downie. 2011. Design and creation of a large-scale database of structural annotations. *Proceedings of the International Society for Music Information Retrieval Conference*. 555--60.
 
 [PDF (preprint)]({{ site.assetsurl }}/schankler2011-mcm-emergent_formal_structures.pdf), [BIB]({{ site.assetsurl }}/schankler2011-mcm-emergent_formal_structures.bib), [Slides]({{ site.assetsurl }}/schankler2011-mcm-emergent_formal_structures-slides.pdf)
@@ -49,7 +49,7 @@ permalink: /publications/
 [Slides](http://www.terasoft.com.tw/conf/ismir2014/tutorial/2014_MuellerSmith_MusicStructure_Tutorial-ISMIR_Part-2.pdf), [Abstract](http://www.terasoft.com.tw/conf/ismir2014/tutorialschedule.html)
 :	Müller, M., and J. B. L. Smith. 27 October 2014. "Music Structure Analysis". Tutorial at the International Society for Music Information Retrieval Conference, Taipei, Taiwan.
 
-[Abstract]({{ site.assetsurl }}/smith2014-sysmus-role_of_attention.pdf), Poster [PDF]({{ site.assetsurl }}/smith2014-sysmus-role_of_attention-poster.pdf), [Project page]({{ site.assetsurl }}/)
+[Abstract]({{ site.assetsurl }}/smith2014-sysmus-role_of_attention.pdf), Poster [PDF]({{ site.assetsurl }}/smith2014-sysmus-role_of_attention-poster.pdf), [Website]({{ site.assetsurl }}/)
 :	Smith, J. B. L., M. T. Pearce, and E. Chew. 2014. "The role of attention in the perception of music structure." Poster presented at the International Conference of Students of Systematic Musicology, [SysMus14](http://www.musicmindbrain.com/#!sysmus-2014/cfmp).
 
 [Abstract]({{ site.assetsurl }}/smith2013-smpc-learning_about_structure.pdf)
@@ -64,7 +64,7 @@ permalink: /publications/
 [PDF]({{ site.assetsurl }}/brochier2011-ismir-overly_slow_tempo.pdf), [Poster]({{ site.assetsurl }}/brochier2011-ismir-overly_slow_tempo-poster.pdf)
 :	Brochier, T., J. B. L. Smith, and E. Chew. 2011. "Can an overly slow initial tempo counteract the deceleration caused by auditory delay?" Poster presentation at Late-breaking and Demo Session at the International Society for Music Information Retrieval Conference, Miami, FL.
 
-[PDF]({{ site.assetsurl }}/bay2011-escience-webscale_computational_musicology.pdf), [BIB]({{ site.assetsurl }}/bay2011-escience-webscale_computational_musicology.bib), [Project page]({{ site.assetsurl }}/)
+[PDF]({{ site.assetsurl }}/bay2011-escience-webscale_computational_musicology.pdf), [BIB]({{ site.assetsurl }}/bay2011-escience-webscale_computational_musicology.bib), [Website]({{ site.assetsurl }}/)
 :	Bay, M., J. A. Burgoyne, T. Crawford, D. De Roure, J. S. Downie, A. Ehmann, B. Fields, I. Fujinaga, K. Page and J. B. L. Smith. 2011. Towards web-scale computational musicology: An update on the SALAMI project. In Proceedings of the 10th UK e-Science All Hands Meeting. York, England.
 
 [Poster]({{ site.assetsurl }}/smith2010-smt-comparison_and_evaluation-poster.pdf)
@@ -72,10 +72,10 @@ permalink: /publications/
 
 ### Theses:
 
-[PDF]({{ site.assetsurl }}/smith2014-thesis.pdf), [BIB]({{ site.assetsurl }}/smith2014-thesis.bib), [Project page]({{ site.assetsurl }}/)
+[PDF]({{ site.assetsurl }}/smith2014-thesis.pdf), [BIB]({{ site.assetsurl }}/smith2014-thesis.bib), [Website]({{ site.assetsurl }}/)
 :	Smith, Jordan B. L. September 2014. Explaining Listener Differences in the Perception of Musical Structure. PhD thesis, Queen Mary University of London, UK.
 
-[PDF]({{ site.assetsurl }}/smith2010thesis.pdf), [BIB]({{ site.assetsurl }}/smith2010thesis.bib), website
+[PDF]({{ site.assetsurl }}/smith2010thesis.pdf), [BIB]({{ site.assetsurl }}/smith2010thesis.bib), Website
 :	Smith, Jordan B. L. August 2010. An evaluation and comparison of approaches to the automatic formal analysis of musical audio. Master's thesis, McGill University, Montréal, QC, Canada.
 
 [PDF]({{ site.assetsurl }}/smith2006thesis.pdf)

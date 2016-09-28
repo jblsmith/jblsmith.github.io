@@ -250,7 +250,7 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
+//    letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
@@ -328,3 +328,20 @@ dd {
 	margin: 0 0 0.5em 0;
 }
 
+.project_icon img {
+    float: left;
+    width: 120px;
+    height: 120px;
+    margin-right: 20px;
+    @include mobile {
+      float: none;
+      display: block;
+      margin: 0 auto;
+    }
+    border-radius: 5px;
+}
+
+.center {
+    padding: 1em;
+    text-align: center;
+}

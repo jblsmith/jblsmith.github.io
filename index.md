@@ -1,7 +1,5 @@
 ---
 layout: page
-title: About
-permalink: /about/
 ---
 
 I'm a postdoc studying music technology. I'm currently working with Professor Masataka Goto at AIST in Japan on a diverse set of projects, from music analysis to video classification to game development.
