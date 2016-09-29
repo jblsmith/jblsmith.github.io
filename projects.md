@@ -15,7 +15,7 @@ My PhD thesis considered listener disagreements in the analysis of musical struc
 This online listening study investigated how the focus of a listener can affect the perception of structure. We find that by manipulating someone's attention, whether overtly or obliquely, we can influence the salience of boundaries and the structural groupings they prefer. This work is not yet published.
 
 #### [Estimating feature relevance (2013)]({{ site.baseurl  }}/projects/feature_relevance/)
-<a class="project_icon" href="{{ site.baseurl  }}/projects/feature_relevance/"><img src="{{ site.baseurl }}/images/thumbnail_relevance2.png" /></a>
+<a class="project_icon" href="{{ site.baseurl  }}/projects/feature_relevance/"><img src="{{ site.baseurl }}/images/thumbnail_relevance.png" /></a>
 In this project, we propose a method for determining what musical attributes someone was paying attention to when they produced an annotation of a piece of music. The concept is relatively straightforward, and we get some interesting results using a simple quadratic programming algorithm.
 
 #### Boundaries and novelty (2012)
