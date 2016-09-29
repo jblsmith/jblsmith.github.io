@@ -14,7 +14,8 @@ My PhD thesis considered listener disagreements in the analysis of musical struc
 #### Attention and grouping (2014)
 This online listening study investigated how the focus of a listener can affect the perception of structure. We find that by manipulating someone's attention, whether overtly or obliquely, we can influence the salience of boundaries and the structural groupings they prefer. This work is not yet published.
 
-#### Estimating feature relevance (2013)
+#### [Estimating feature relevance (2013)]({{ site.baseurl  }}/projects/feature_relevance/)
+<a class="project_icon" href="{{ site.baseurl  }}/projects/feature_relevance/"><img src="{{ site.baseurl }}/images/thumbnail_relevance2.png" /></a>
 In this project, we propose a method for determining what musical attributes someone was paying attention to when they produced an annotation of a piece of music. The concept is relatively straightforward, and we get some interesting results using a simple quadratic programming algorithm.
 
 #### Boundaries and novelty (2012)
@@ -23,7 +24,7 @@ This IEEE Transactions on Multimedia article describes a test of how well acoust
 #### Listener disagreements (2012)
 Co-authored by Isaac Schankler, this case study investigated how listeners manage to produce structural analyses that disagree with each other. The Music Theory Online article contains lots of audio files, videos and illustrations—definitely a welcome counterbalance to the dense text!
 
-### [MIREX meta-analysis (2013)]({{ site.baseurl }}/projects/mirex-meta-analysis/)
+### [MIREX meta-analysis (2013)]({{ site.baseurl }}/projects/mirex_meta_analysis/)
 This ISMIR paper focused on what we could learn from the MIREX Structural Segmentation task after new data about the ground truth were published in 2012. This was my first attempt at producing "open research", meaning that all the tools and data used to produce the article are provided in an open repository.
 
 ### Master's thesis (2010)
