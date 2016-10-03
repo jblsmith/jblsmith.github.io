@@ -9,6 +9,7 @@ class: project_page
 
 - [Full text PDF]({{ site.baseurl }}/documents/smith2010-masters_thesis.pdf), [BIB]({{ site.baseurl }}/documents/smith2010-masters_thesis.bib)
 - Presented as a poster to the joint AMS/SMT 2010 Annual Meeting. [Poster PDF]({{ site.baseurl }}/documents/smith2010-smt-comparison_and_evaluation-poster.pdf).
+- [GitHub repo](https://github.com/jblsmith/ma-thesis) with audio, annotation and evaluation data.
 
 I conducted a comparative evaluation of a handful of algorithms that produce formal analyses of music on a diverse set of corpora, including a new corpus of public domain music. In the same spirit, all of the evaluation data (including the full output of each algorithm) is available too.
 
