@@ -1,22 +1,26 @@
 ---
-layout: page
+layout: default
 ---
 
-I'm a postdoc studying music technology. I'm currently working with Professor Masataka Goto at AIST in Japan on a diverse set of projects, from music analysis to video classification to game development.
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-My previous research focused on musical structure—i.e., the abstract form of a piece, or how it is composed of repeated and varied sections. My PhD thesis considered the question of what leads listeners to disagree about structural analyses; it was a multi-disciplinary effort that used tools and techniques of music information retrieval, music theory and music perception and cognition.
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-Before finishing my Ph.D. at Queen Mary University of London, I completed Master's degrees at USC (in Operations Research) and at McGill University (in Music Technology). At McGill, as part of the SALAMI project, I studied the annotation of musical structure. As a result, I've become deeply interested in what information these annotations actually contain and how we can understand them better.
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-### [Tumblr](https://jblsmith.tumblr.com)
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
 
-I post pictures of food (of course) and other things on Tumblr.
-<script type="text/javascript" src="http://jblsmith.tumblr.com/js?start=0&num=1"></script>
+# [Tumblr](http://jblsmith.tumblr.com)
 
-### More Information
+For more blogging, check out my [Tumblr feed](http://jblsmith.tumblr.com). It's mostly pictures of food and mildly interesting things. Here's an example post:
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+<div class="tumblr">
+	<script type="text/javascript" src="http://jblsmith.tumblr.com/js?start=0&num=1"></script>
+</div>

@@ -347,3 +347,21 @@ dd {
     padding: 1em;
     text-align: center;
 }
+
+div .tumblr {
+    background: #ddd;
+    margin: 1em;
+    padding: 1em;
+    border: 3px solid #000;
+}
+
+.tumblr ol, ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.tumblr img {
+    width: 100%;
+    padding: 0;
+}
