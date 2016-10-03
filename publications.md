@@ -72,7 +72,7 @@ permalink: /publications/
 
 ### Theses:
 
-[PDF]({{ site.assetsurl }}/smith2014-thesis.pdf), [BIB]({{ site.assetsurl }}/smith2014-thesis.bib), [Website]({{ site.assetsurl }}/)
+[PDF]({{ site.assetsurl }}/smith2014-phd_thesis.pdf), [BIB]({{ site.assetsurl }}/smith2014-phd_thesis.bib), [Website]({{ site.assetsurl }}/)
 :	Smith, Jordan B. L. September 2014. Explaining Listener Differences in the Perception of Musical Structure. PhD thesis, Queen Mary University of London, UK.
 
 [PDF]({{ site.assetsurl }}/smith2010thesis.pdf), [BIB]({{ site.assetsurl }}/smith2010thesis.bib), Website

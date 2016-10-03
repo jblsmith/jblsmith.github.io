@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  background: $lightGray;
+  background: #fff;
   font-size: 18px;
   font-family: garamond, serif;
   color: $black;
@@ -297,7 +297,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #dbd0d0;
   clear: both;
 }
 
@@ -333,13 +333,14 @@ dd {
     width: 90px;
     height: 90px;
     margin-right: 10px;
+    margin-bottom: 0.5em;
     @include mobile {
       float: none;
       display: block;
       margin: 0 auto;
     }
     border-radius: 5px;
-    border:1px solid #000;
+    border:3px solid #000;
 }
 
 .project_img {
