@@ -365,3 +365,9 @@ div .tumblr {
     width: 100%;
     padding: 0;
 }
+
+.footer_icon_link a {
+    &:active, &:hover {
+  	    background-color: none;
+    }   
+}
