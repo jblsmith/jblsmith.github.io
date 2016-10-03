@@ -355,7 +355,7 @@ div .tumblr {
     border: 3px solid #000;
 }
 
-.tumblr ol, ul {
+ol, ul .tumblr {
     list-style-type: none;
     padding: 0px;
     margin: 0px;
@@ -366,8 +366,8 @@ div .tumblr {
     padding: 0;
 }
 
-.footer_icon_link a {
+a.footer_icon_link {
     &:active, &:hover {
-  	    background-color: none;
+  	    background-color: #dbd0d0;
     }   
 }
