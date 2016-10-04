@@ -11,6 +11,9 @@ permalink: /publications/
 
 ### Peer reviewed journal and conference articles:
 
+[PDF]({{ site.assetsurl }}/smith2016-ismir-using_priors.pdf), [BIB]({{ site.assetsurl }}/smith2016-ismir-using_priors.bib)
+:	Smith, J. B. L., and M. Goto. 2016. Using priors To improve estimates of music structure. *Proceedings of the International Society for Music Information Retrieval Conference*. 554--60.
+
 [PDF]({{ site.assetsurl }}/smith2015-smc-crosssong_puzzle.pdf), [BIB]({{ site.assetsurl }}/smith2015-smc-crosssong_puzzle.bib), [Website](https://staff.aist.go.jp/jun.kato/CrossSong/)
 :	Smith, J. B. L., G. Percival, J. Kato, M. Goto, and S. Fukayama. 2015. CrossSong Puzzle: Generating and unscrambling music mashups with real-time interactivity. *Proceedings of the Sound and Music Computing Conference*. 61--7. Winner of the Best Paper Award at SMC!
 
