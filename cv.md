@@ -83,7 +83,7 @@ June 2006
 
 ## Conferences and workshops
 
-** I have presented work at the following meetings: **
+#### I have presented work at the following meetings:
 
 Aug. 12, 2016.
 :	The 5th annual seminar on Cognitively based Music Informatics Research (CogMIR). New York City, USA. 
@@ -136,7 +136,7 @@ March 26, 2010
 Oct. 26–30, 2009
 :	The 10th ISMIR. Kobe, Japan. *Also attended but did not present work at satellite event in Kyoto on Oct. 31: CrestMuse Workshop.*
 
-**I have also attended the following conferences for fun and education:**
+#### I have also attended the following conferences for fun and education:
 
 Jan. 27–29, 2014
 :	AES 53rd International Conference on Semantic Audio. London, UK. (Volunteer organizer.)
