@@ -81,9 +81,9 @@ Oct. 2006
 June 2006
 :	David McCord prize. Awarded to graduating students of Harvard “who have shown unusual creative talent in writing, drama, music, painting, drawing or sculpture.”
 
-## Conferences and workshops attended
+## Conferences and workshops
 
-(Contributed to work published at all conferences except those in italics.)
+** I have presented work at the following meetings: **
 
 Aug. 12, 2016.
 :	The 5th annual seminar on Cognitively based Music Informatics Research (CogMIR). New York City, USA. 
@@ -106,9 +106,6 @@ Oct. 27–31, 2014
 Sept. 18–20, 2014
 :	International Conference of Students of Systematic Musicology. London, UK.
 
-Jan. 27–29, 2014
-:	AES 53rd International Conference on Semantic Audio. London, UK. (Volunteer organizer.)
-
 Nov. 4–8, 2013
 :	The 14th ISMIR. Curitiba, Brazil.
 
@@ -116,10 +113,7 @@ Oct. 21–25, 2013
 :	The 21st ACM International Conference on Multimedia (ACMMM). Barcelona, Spain.
 
 Aug. 8–11, 2013
-:	The biennial meeting of the Society for Music Perception and Cognition (SMPC). Toronto, ON, Canada. Also attended third annual seminar on Cognitively based Music Informatics Research (CogMIR) satellite event on Aug. 7.
-
-March 21, 2013
-:	Workshop on Information Dynamics of Music (IDyOM). London, UK.
+:	The biennial meeting of the Society for Music Perception and Cognition (SMPC). Toronto, ON, Canada. *Also attended but did not present work at SMPC satellite event on Aug. 7: third annual seminar on Cognitively based Music Informatics Research (CogMIR).*
 
 Dec. 18, 2012
 :	DMRN+7: Digital Music Research Network One-day Workshop. London, UK.
@@ -130,9 +124,6 @@ Oct. 8–12, 2012
 Oct. 24–28, 2011
 :	The 12th ISMIR. Miami, FL.
 
-Aug. 11–14, 2011
-:	The biennial meeting of the SMPC. Rochester, NY.
-
 June 15–17, 2011
 :	International Conference on Mathematics and Computation in Music (MCM). Paris, France.
 
@@ -142,11 +133,31 @@ Nov. 4–7, 2010
 March 26, 2010
 :	Workshop on Structural Analysis of Music. McGill University, Montreal, QC.
 
+Oct. 26–30, 2009
+:	The 10th ISMIR. Kobe, Japan. *Also attended but did not present work at satellite event in Kyoto on Oct. 31: CrestMuse Workshop.*
+
+**I have also attended the following conferences for fun and education:**
+
+Jan. 27–29, 2014
+:	AES 53rd International Conference on Semantic Audio. London, UK. (Volunteer organizer.)
+
+March 21, 2013
+:	Workshop on Information Dynamics of Music (IDyOM). London, UK.
+
+Aug. 11–14, 2011
+:	The biennial meeting of the SMPC. Rochester, NY.
+
+Oct. 9, 2010
+:	Out To Innovate Summit. USC, Los Angeles, CA.
+
+Oct. 7–8, 2010
+:	National Grand Challenges Summit for the National Academy of Engineering (NAE). USC, Los Angeles, CA.
+
+April 30–May 1, 2010
+:	ROFLcon 2. Boston, MA.
+
 Jan. 29, 2010
 :	North East Music Informatics Special Interest Group (NEMISIG). NYU, New York, NY.
-
-Oct. 26–30, 2009
-:	The 10th ISMIR. Kobe, Japan. Also attended CrestMuse Workshop satellite event in Kyoto on Oct. 31.
 
 Aug. 16–21, 2009
 :	International Computer Music Conference (ICMC). McGill University, Montreal, QC. (Volunteer organizer.)
@@ -162,6 +173,9 @@ Nov. 14, 2008
 
 Sept. 14–18, 2008
 :	The 9th ISMIR. Drexel University, Philadelphia, PA.
+
+April 25–26, 2008
+:	ROFLcon. MIT, Boston, MA.
 
 ## Peer reviews
 
