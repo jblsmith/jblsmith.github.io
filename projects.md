@@ -22,12 +22,11 @@ In this project, we propose a method for determining what musical attributes som
 
 #### [Boundaries and novelty (2012)]({{ site.baseurl }}/projects/boundaries-novelty/)
 <a class="project_icon" href="{{ site.baseurl }}/projects/boundaries-novelty/"><img src="{{ site.baseurl }}/images/thumbnail_boundaries.png" /></a>
-How well acoustic novelty accounts for boundary indications in an annotated corpus?
-<!-- This *IEEE Transactions on Multimedia* article describes a test of h -->
+How well does acoustic novelty account for boundary indications in an annotated corpus? We look at how peaks in novelty at various timescales and in various musical features correlate with boundary indications. We find that novelty is a necessary but not sufficient condition for being a boundary.
 
 #### [Listener disagreements (2012)]({{ site.baseurl }}/projects/listener-disagreements/)
 <a class="project_icon" href="{{ site.baseurl }}/projects/listener-disagreements/"><img src="{{ site.baseurl }}/images/thumbnail_listeners.png" /></a>
-Co-authored by Isaac Schankler, this case study investigated how listeners manage to produce structural analyses that disagree with each other. The Music Theory Online article contains lots of audio files, videos and illustrations—definitely a welcome counterbalance to the dense text!
+In this case study co-authored by Isaac Schankler, we investigated how listeners manage to produce structural analyses that disagree with each other. The Music Theory Online article contains lots of audio files, videos and illustrations---definitely a welcome counterbalance to the dense text!
 
 ### [MIREX meta-analysis (2013)]({{ site.baseurl }}/projects/mirex-meta-analysis/)
 <a class="project_icon" href="{{ site.baseurl }}/projects/mirex-meta-analysis/"><img src="{{ site.baseurl }}/images/thumbnail_mirexmeta.png" /></a>
