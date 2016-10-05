@@ -13,6 +13,6 @@ Click below to:
 
 - [view the table of contents](http://www.worldscientific.com/worldscibooks/10.1142/10046#t=toc) and download free previews of certain sections;
 - [purchase the book](http://www.worldscientific.com/worldscibooks/10.1142/10046) (use code WSMTH1220 to receive a 20% discount);
-	- alternatively, purchase from [Amazon US](bit.ly/Mathemusical-Amazon) or [Amazon-UK](bit.ly/Mathemusical-AmazonUK);
+	- alternatively, purchase from [Amazon US](http://bit.ly/Mathemusical-Amazon) or [Amazon-UK](http://bit.ly/Mathemusical-AmazonUK);
 - [view the press release](http://www.worldscientific.com/page/pressroom/2016-09-26-01);
 - [visit the workshop website](https://sites.google.com/site/mathemusicalconversations/home), which includes [videos of all the talks](https://sites.google.com/site/mathemusicalconversations/videos).
