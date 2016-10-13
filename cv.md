@@ -7,7 +7,7 @@ permalink: /cv/
 - [Education](#education)
 - [Languages](#languages) I'm familiar with
 - [Fellowships](#fellowship-funding) I've received (and [other awards](#other-awards))
-- [Conferences](#conferences-and-workshops-attended) I've attended
+- [Conferences](#conferences-and-workshops) I've attended
 - [Peer Reviews](#peer-reviews)
 
 For a PDF of my CV (which combines all of the above with my [publications]({{ site.baseurl }}/publications/)), [click here]({{ site.baseurl }}/documents/CV.pdf).
