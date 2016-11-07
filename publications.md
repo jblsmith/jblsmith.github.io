@@ -11,6 +11,9 @@ permalink: /publications/
 
 ### Peer reviewed journal and conference articles:
 
+To appear
+:	Watanabe, K., Y. Matsubayashi, N. Orita, N. Okazaki, K. Inui, S. Fukayama, T. Nakano, J. B. L. Smith, and M. Goto. 2016. Modeling discourse segments in lyrics using repeated patterns. In *Proceedings of the International Conference on Computational Linguistics (COLING)*.
+
 [PDF]({{ site.assetsurl }}/smith2016-ismir-using_priors.pdf), [BIB]({{ site.assetsurl }}/smith2016-ismir-using_priors.bib)
 :	Smith, J. B. L., and M. Goto. 2016. Using priors To improve estimates of music structure. *Proceedings of the International Society for Music Information Retrieval Conference*. 554--60.
 
@@ -104,8 +107,8 @@ permalink: /publications/
 [Link](http://www.computermusicjournal.org/reviews/35-4/smith-schankler-mcm2011.html)
 :	Smith, J. B. L. and I. Schankler. 2011. Review of The Third International Conference on Mathematics and Computation in Music. *Computer Music Journal* 35: 4, 98--9.
 
-[Slides (PDF)]({{ site.assetsurl }}/smith2010SALAMIslides.pdf)
+[Slides]({{ site.assetsurl }}/smith2010SALAMIslides.pdf)
 :	Smith, J. B. L. 26 March 2010. "Methods for the automatic structural analysis of music." Presentation at the CIRMMT Workshop on the Structural Analysis of Music. You can also view the slides as a [flash video (13 MB)](http://www.music.mcgill.ca/~jordan/documents/smith2010SALAMIvideo.html) with sound examples.
 
-[Slides (PDF)]({{ site.assetsurl }}/smith2010AutomaticAnalysisPresentation.pdf)
+[Slides]({{ site.assetsurl }}/smith2010AutomaticAnalysisPresentation.pdf)
 :	Smith, J. B. L. 2 March 2010. "A survey of approaches to the automatic formal analysis of musical audio." Presentation at the McGill Music Technology Colloquium.
