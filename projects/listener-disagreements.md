@@ -15,7 +15,7 @@ Isaac Schankler and I conducted a case study of ourselves that revolved around t
 
 <div class="project_img"><a href="{{ site.baseurl }}/images/listener_disagreements-figure_1.png"><img src="{{ site.baseurl }}/images/listener_disagreements-figure_1.png" alt="Figure 1" style="width: 700px;"/></a></div>
 
-We decided that the following was a plausible chain of causation: *expectation, information, opening momdents*, and *attention*: 
+We decided that the following was a plausible chain of causation: first, differences in *expectation*, followed by differences in *information*, the perception of a piece's *opening moments*, and finally their *attention*. Working backwards:
 
 1. At the surface level, our disagreements seemed directly attributable to *paying attention* to different features. That is, we used our descriptions of musical features to justify our boundaries and labels: e.g., one might say "I hear this as a boundary because I attend to the change in register."
 2. Some of these disagreements appeared, in turn, to be directly attributable to disagreements about *opening moments*: if we disagreed about how to characterize the opening theme of the piece, we would naturally disagree about how to characterize later parts of the piece that reuse this material. (This is perhaps the result of local expectations established in the opening moments.) 
