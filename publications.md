@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Book
 
-[Link](http://www.worldscientific.com/worldscibooks/10.1142/10046)
+[Link](http://www.worldscientific.com/worldscibooks/10.1142/10046), [BIB]({{ site.assetsurl }}/smith2016-mathemusical_conversations.bib)
 :	Smith, J. B. L., E. Chew, and G. Assayag, eds. 2016. *Mathemusical Conversations: Mathematics and Computation in Music Performance and Composition*. Volume 32 of Lecture Notes Series, Institute for Mathematical Sciences, National University of Singapore. World Scientific / Imperial College Press.
 
 ### Peer reviewed journal and conference articles:
@@ -15,7 +15,7 @@ To appear
 :	Watanabe, K., Y. Matsubayashi, N. Orita, N. Okazaki, K. Inui, S. Fukayama, T. Nakano, J. B. L. Smith, and M. Goto. 2016. Modeling discourse segments in lyrics using repeated patterns. In *Proceedings of the International Conference on Computational Linguistics (COLING)*.
 
 [PDF]({{ site.assetsurl }}/smith2016-ismir-using_priors.pdf), [BIB]({{ site.assetsurl }}/smith2016-ismir-using_priors.bib)
-:	Smith, J. B. L., and M. Goto. 2016. Using priors To improve estimates of music structure. *Proceedings of the International Society for Music Information Retrieval Conference*. 554--60.
+:	Smith, J. B. L., and M. Goto. 2016. Using priors to improve estimates of music structure. *Proceedings of the International Society for Music Information Retrieval Conference*. 554--60.
 
 [PDF]({{ site.assetsurl }}/smith2015-smc-crosssong_puzzle.pdf), [BIB]({{ site.assetsurl }}/smith2015-smc-crosssong_puzzle.bib), [Website](https://staff.aist.go.jp/jun.kato/CrossSong/)
 :	Smith, J. B. L., G. Percival, J. Kato, M. Goto, and S. Fukayama. 2015. CrossSong Puzzle: Generating and unscrambling music mashups with real-time interactivity. *Proceedings of the Sound and Music Computing Conference*. 61--7. Winner of the Best Paper Award at SMC!

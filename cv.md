@@ -181,5 +181,5 @@ April 25–26, 2008
 
 - Reviewer for International Society for Music Information Retrieval (ISMIR) 2010, 2012–2014
 - Meta-reviewer for ISMIR 2015
-- Reviewer for Music Perception, 2015
-- Reviewer for Journal of New Music Research, 2015
+- Reviewer for *Music Perception*, 2015
+- Reviewer for *Journal of New Music Research*, 2015
