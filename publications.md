@@ -12,7 +12,7 @@ permalink: /publications/
 ### Peer reviewed journal and conference articles:
 
 To appear
-:	Y., Luwei, A. Maezawa, J. B. L. Smith, and E. Chew. 2017. Probabilistic transcription of sung melody using a pitch dynamic model. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*.
+:	Yang, L., A. Maezawa, J. B. L. Smith, and E. Chew. 2017. Probabilistic transcription of sung melody using a pitch dynamic model. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*.
 
 [PDF]({{ site.assetsurl }}/watanabe2016-coling-discourse_segments_in_lyrics.pdf), [BIB]({{ site.assetsurl }}/watanabe2016-coling-discourse_segments_in_lyrics.bib)
 :	Watanabe, K., Y. Matsubayashi, N. Orita, N. Okazaki, K. Inui, S. Fukayama, T. Nakano, J. B. L. Smith, and M. Goto. 2016. Modeling discourse segments in lyrics using repeated patterns. In *Proceedings of the International Conference on Computational Linguistics (COLING)*. 1959--69.
