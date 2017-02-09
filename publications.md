@@ -4,12 +4,20 @@ title: Publications
 permalink: /publications/
 ---
 
+- [Book](#book)
+- [Peer-reviewed full text](#peer-reviewed-journal-and-conference-articles)
+- [Peer-reviewed abstract](#peer-reviewed-conference-presentations-on-the-basis-of-an-abstract)
+- [Theses](#theses)
+- [Other writings and presentations](#other-writings-and-presentations)
+
+For citation statistics, please visit [Google Scholar](https://scholar.google.com/citations?user=XsofCnQAAAAJ).
+
 ### Book
 
 [Link](http://www.worldscientific.com/worldscibooks/10.1142/10046), [BIB]({{ site.assetsurl }}/smith2016-mathemusical_conversations.bib)
 :	Smith, J. B. L., E. Chew, and G. Assayag, eds. 2016. *Mathemusical Conversations: Mathematics and Computation in Music Performance and Composition*. Volume 32 of Lecture Notes Series, Institute for Mathematical Sciences, National University of Singapore. World Scientific / Imperial College Press.
 
-### Peer reviewed journal and conference articles:
+### Peer-reviewed journal and conference articles:
 
 To appear
 :	Yang, L., A. Maezawa, J. B. L. Smith, and E. Chew. 2017. Probabilistic transcription of sung melody using a pitch dynamic model. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*.
@@ -50,25 +58,28 @@ To appear
 [PDF]({{ site.assetsurl }}/li2009-ismir-optical_audio_reconstruction.pdf), [BIB]({{ site.assetsurl }}/li2009-ismir-optical_audio_reconstruction.bib)
 :	Li, B., J. B. L. Smith and I. Fujinaga. 2009. Optical audio reconstruction for stereo phonograph records using white light interferometry. *Proceedings of the International Society for Music Information Retrieval Conference*. 627--32.
 
-### Peer reviewed conference presentations (on the basis of an abstract):
+### Peer-reviewed conference presentations on the basis of an abstract:
+
+[Slides]({{ site.assetsurl }}/smith2016-cogmir-validating_technique-slides.pdf)
+:	Smith, J. B. L., and E. Chew. 12 August 2016. "Validating a technique for post-hoc estimation of a listener's focus in music structure analysis." Oral presentation at [CogMIR](http://www.cogmir.org/) (Cognitively Based Music Informatics Research), satellite event of the International Society for Music Information Retrieval Conference, New York, NY.
 
 [Poster]({{ site.assetsurl }}/smith2015-mathemusical-validating-poster.pdf)
-:	Smith, J. B. L., and E. Chew. 13 October 2015. "Validating an Optimisation Technique for Estimating the Focus of a Listener." [Poster Session at Mathemusical Conversations](https://sites.google.com/site/mathemusicalconversations/program/poster-abstracts), Singapore.
+:	Smith, J. B. L., and E. Chew. 13 October 2015. "Validating an Optimisation Technique for Estimating the Focus of a Listener." Poster presentation at [Mathemusical Conversations](https://sites.google.com/site/mathemusicalconversations/program/poster-abstracts), Singapore.
 
 [Slides](http://www.terasoft.com.tw/conf/ismir2014/tutorial/2014_MuellerSmith_MusicStructure_Tutorial-ISMIR_Part-2.pdf), [Abstract](http://www.terasoft.com.tw/conf/ismir2014/tutorialschedule.html)
 :	Müller, M., and J. B. L. Smith. 27 October 2014. "Music Structure Analysis". Tutorial at the International Society for Music Information Retrieval Conference, Taipei, Taiwan.
 
 [Abstract]({{ site.assetsurl }}/smith2014-sysmus-role_of_attention.pdf), Poster [PDF]({{ site.assetsurl }}/smith2014-sysmus-role_of_attention-poster.pdf), [Details]({{ site.baseurl }}/projects/attention-grouping/)
-:	Smith, J. B. L., M. T. Pearce, and E. Chew. 2014. "The role of attention in the perception of music structure." Poster presented at the International Conference of Students of Systematic Musicology, [SysMus14](http://www.musicmindbrain.com/#!sysmus-2014/cfmp).
+:	Smith, J. B. L., M. T. Pearce, and E. Chew. 2014. "The role of attention in the perception of music structure." Poster presentation at the International Conference of Students of Systematic Musicology, [SysMus14](http://www.musicmindbrain.com/#!sysmus-2014/cfmp).
 
 [Abstract]({{ site.assetsurl }}/smith2013-smpc-learning_about_structure.pdf)
-:	Smith, J. B. L., C.-H. Chuan, and E. Chew. 9 August 2013. "Learning about structural analysis from structural analyses." Talk at the biennial meeting of the Society for Music Perception and Cognition, Toronto, ON, Canada.
+:	Smith, J. B. L., C.-H. Chuan, and E. Chew. 9 August 2013. "Learning about structural analysis from structural analyses." Oral presentation at the biennial meeting of the Society for Music Perception and Cognition, Toronto, ON, Canada.
 
 [Abstract]({{ site.assetsurl }}/smith2013-smpc-why_do_listeners_disagree.pdf)
-:	Smith, J. B. L., I. Schankler, and E. Chew. 8 August 2013. "Why do listeners disagree about large-scale formal structure? A case study." Talk at the biennial meeting of the Society for Music Perception and Cognition, Toronto, ON, Canada.
+:	Smith, J. B. L., I. Schankler, and E. Chew. 8 August 2013. "Why do listeners disagree about large-scale formal structure? A case study." Oral presentation at the biennial meeting of the Society for Music Perception and Cognition, Toronto, ON, Canada.
 
 [Abstract]({{ site.assetsurl }}/smith2012-dmrn-boundaries_and_novelty.pdf), [Slides]({{ site.assetsurl }}/smith2012-dmrn-boundaries_and_novelty-slides.pdf)
-:	Smith, J. B. L., C.-H. Chuan, and E. Chew. 18 December 2012. "Boundaries and novelty: the correspondence between points of change and perceived boundaries." Presentation at Digital Music Research Network One-day Workshop, London, UK.
+:	Smith, J. B. L., C.-H. Chuan, and E. Chew. 18 December 2012. "Boundaries and novelty: the correspondence between points of change and perceived boundaries." Oral presentation at Digital Music Research Network One-day Workshop, London, UK.
 
 [PDF]({{ site.assetsurl }}/brochier2011-ismir-overly_slow_tempo.pdf), [Poster]({{ site.assetsurl }}/brochier2011-ismir-overly_slow_tempo-poster.pdf)
 :	Brochier, T., J. B. L. Smith, and E. Chew. 2011. "Can an overly slow initial tempo counteract the deceleration caused by auditory delay?" Poster presentation at Late-breaking and Demo Session at the International Society for Music Information Retrieval Conference, Miami, FL.

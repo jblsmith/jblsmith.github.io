@@ -13,6 +13,8 @@ permalink: /cv/
 
 For a PDF of my CV (which combines all of the above with my [publications]({{ site.baseurl }}/publications/)), [click here]({{ site.baseurl }}/documents/CV.pdf).
 
+ORCID assigns unique codes to individual scholars in order to efficiently track publications, funding awards, and employment. You can visit my [ORCID profile here](http://orcid.org/0000-0002-0316-1235).
+
 ## Education
 
 2012--2014
