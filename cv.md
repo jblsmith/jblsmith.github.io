@@ -5,6 +5,7 @@ permalink: /cv/
 ---
 
 - [Education](#education)
+- [Work experience](#work-experience)
 - [Languages](#languages) I'm familiar with
 - [Fellowships](#fellowship-funding) I've received (and [other awards](#other-awards))
 - [Conferences](#conferences-and-workshops) I've attended
@@ -32,6 +33,29 @@ For a PDF of my CV (which combines all of the above with my [publications]({{ si
 
 2000--2002
 :	Dawson College, Diplôme d'Étude Collégial, First Choice Pure & Applied Science, Honours.
+
+## Work experience
+
+Nov. 2014–present
+:	Post-doctoral research scientist in the [Media Interaction Group](https://staff.aist.go.jp/m.goto/MIG/index-j.html) at [AIST](http://www.aist.go.jp/index_en.html).
+
+Feb. 2010–Aug. 2010
+:	Researcher for [Structural Analysis of Large Amounts of Music Information (SALAMI)](http://ddmal.music.mcgill.ca/research/salami) project. Responsible for coordinating ground truth collection and assembling analysis algorithms.
+
+Jan. 2008–Aug. 2010
+:	Private tutor. Individual instruction in high school- and CÉGEP-level math, chemistry and physics.
+
+May 2009–Oct. 2009
+:	Web designer for [CIRMMT](http://www.cirmmt.mcgill.ca/). Designed and built new site template, including custom	modules, for integration with updated Plone framework.
+
+Sept. 2008–April 2009
+:	Teaching assistant for McGill University. Spring: MUTH 111 (Harmony and Analysis, with Prof. Carmen Sabourin). Fall: MUTH 110 (Melody and Counterpoint, with Prof. Jonathan Wild). Taught twice-weekly small sections and met individually with students. Guest lecturer for Prof. Wild.
+
+July 2008–April 2009
+:	Assistant web developer for [ImprovCommunity](http://www.improvcommunity.ca/). Responsible for general site management and for planning and creating certain site areas, such as the help area, student forums, and dynamic conference schedule, within Drupal framework.
+
+May 2008–June 2008
+:	Note Tracker for Electronic Arts Montréal. Transcribed melody information in MIDI format for proprietary interpreter.
 
 ## Languages
 
@@ -85,10 +109,10 @@ June 2006
 
 #### I have presented work at the following meetings:
 
-Aug. 12, 2016.
+Aug. 12, 2016
 :	The 5th annual seminar on Cognitively based Music Informatics Research (CogMIR). New York City, USA. 
 
-Aug. 7–11, 2016.
+Aug. 7–11, 2016
 :	The 17th International Society for Music Information Retrieval Conference (ISMIR). New York City, USA.
 
 Feb. 28–March 4, 2016
