@@ -95,10 +95,10 @@ To appear
 [Abstract](http://materials.dagstuhl.de/abstractPopup.php?xif_session_id=gjencq46n9kbi42d08gblok9k6&participantIndex=27&documentIndex=0), [PDF](http://materials.dagstuhl.de/files/16/16092/16092.JordanSmith.Slides.pdf)
 :	Smith, J. B. L. and M. Goto. 3 March 2016. "Using prior expectations to improve structural analysis: A cautionary tale." Stimulus talk at the Dagstuhl Seminar on Computational Music Structure Analysis.
 
-[Slides]({{ site.assetsurl }}/smith2015-raffles_structure.pdf)
+[Slides]({{ site.assetsurl }}/smith2015-raffles-structure-slides.pdf)
 :	Smith, J. B. L. 12 February 2015. "Explaining and Predicting the Perception of Musical Structure." Talk at the Pre-workshop Study Day at Raffles Institution.
 
-[Slides]({{ site.assetsurl }}/smith2015-raffles_MIR.pdf)
+[Slides]({{ site.assetsurl }}/smith2015-raffles-MIR-slides.pdf)
 :	Smith, J. B. L. 12 February 2015. "Music Information Retrieval: An Overview." Talk at the Pre-workshop Study Day at Raffles Institution.
 
 --
@@ -110,8 +110,9 @@ To appear
 [Link](http://www.computermusicjournal.org/reviews/35-4/smith-schankler-mcm2011.html)
 :	Smith, J. B. L. and I. Schankler. 2011. Review of The Third International Conference on Mathematics and Computation in Music. *Computer Music Journal* 35: 4, 98--9.
 
-[Slides]({{ site.assetsurl }}/smith2010SALAMIslides.pdf)
-:	Smith, J. B. L. 26 March 2010. "Methods for the automatic structural analysis of music." Presentation at the CIRMMT Workshop on the Structural Analysis of Music. You can also view the slides as a [flash video (13 MB)](http://www.music.mcgill.ca/~jordan/documents/smith2010SALAMIvideo.html) with sound examples.
+[Slides]({{ site.assetsurl }}/smith2010-cirmmt-methods_automatic_structure-slides.pdf)
+:	Smith, J. B. L. 26 March 2010. "Methods for the automatic structural analysis of music." Presentation at the CIRMMT Workshop on the Structural Analysis of Music.
+<!-- You can also view the slides as a [flash video (13 MB)](http://www.music.mcgill.ca/~jordan/documents/smith2010SALAMIvideo.html) with sound examples. -->
 
-[Slides]({{ site.assetsurl }}/smith2010AutomaticAnalysisPresentation.pdf)
+[Slides]({{ site.assetsurl }}/smith2010-cirmmt-survey_approaches-slides.pdf)
 :	Smith, J. B. L. 2 March 2010. "A survey of approaches to the automatic formal analysis of musical audio." Presentation at the McGill Music Technology Colloquium.
