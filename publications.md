@@ -17,7 +17,7 @@ To appear
 [PDF]({{ site.assetsurl }}/watanabe2016-coling-discourse_segments_in_lyrics.pdf), [BIB]({{ site.assetsurl }}/watanabe2016-coling-discourse_segments_in_lyrics.bib)
 :	Watanabe, K., Y. Matsubayashi, N. Orita, N. Okazaki, K. Inui, S. Fukayama, T. Nakano, J. B. L. Smith, and M. Goto. 2016. Modeling discourse segments in lyrics using repeated patterns. In *Proceedings of the International Conference on Computational Linguistics (COLING)*. 1959--69.
 
-[PDF]({{ site.assetsurl }}/smith2016-ismir-using_priors.pdf), [BIB]({{ site.assetsurl }}/smith2016-ismir-using_priors.bib)
+[PDF]({{ site.assetsurl }}/smith2016-ismir-using_priors.pdf), [BIB]({{ site.assetsurl }}/smith2016-ismir-using_priors.bib), [Slides]({{ site.assetsurl }}/smith2016-ismir-using_priors-slides.pdf)
 :	Smith, J. B. L., and M. Goto. 2016. Using priors to improve estimates of music structure. *Proceedings of the International Society for Music Information Retrieval Conference*. 554--60.
 
 [PDF]({{ site.assetsurl }}/smith2015-smc-crosssong_puzzle.pdf), [BIB]({{ site.assetsurl }}/smith2015-smc-crosssong_puzzle.bib), [Website](https://staff.aist.go.jp/jun.kato/CrossSong/)
@@ -92,7 +92,7 @@ To appear
 
 ### Other writings and presentations:
 
-[Abstract](http://materials.dagstuhl.de/abstractPopup.php?xif_session_id=gjencq46n9kbi42d08gblok9k6&participantIndex=27&documentIndex=0), [PDF](http://materials.dagstuhl.de/files/16/16092/16092.JordanSmith.Slides.pdf)
+[Abstract](http://materials.dagstuhl.de/abstractPopup.php?xif_session_id=gjencq46n9kbi42d08gblok9k6&participantIndex=27&documentIndex=0), [PDF]({{ site.assetsurl }}/smith2016-dagstuhl-using_prior_expectations-slides.pdf)
 :	Smith, J. B. L. and M. Goto. 3 March 2016. "Using prior expectations to improve structural analysis: A cautionary tale." Stimulus talk at the Dagstuhl Seminar on Computational Music Structure Analysis.
 
 [Slides]({{ site.assetsurl }}/smith2015-raffles-structure-slides.pdf)
