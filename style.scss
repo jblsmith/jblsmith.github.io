@@ -348,18 +348,18 @@ dd {
     text-align: center;
 }
 
-div .tumblr {
+.tumblr div {
     background: #ddd;
     margin: 1em;
     padding: 1em;
     border: 3px solid #000;
 }
 
-ol, ul .tumblr {
-    list-style-type: none;
-    padding: 0px;
-    margin: 0px;
-}
+//ol, ul .tumblr {
+//    list-style-type: none;
+//    padding: 0px;
+//    margin: 0px;
+//}
 
 .tumblr img {
     width: 100%;
@@ -370,4 +370,15 @@ a.footer_icon_link {
     &:active, &:hover {
   	    background-color: #dbd0d0;
     }   
+}
+
+blockquote {
+    margin: 0em .8em;
+    border-left: 2px solid $gray;
+    padding: 0em 1em;
+    font-style: italic;
+}
+
+table {
+    width: 80%;
 }

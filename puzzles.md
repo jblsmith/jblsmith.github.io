@@ -15,7 +15,7 @@ I enjoy puzzles of all kinds, especially cryptic crosswords. I participate regul
 [Cryptic crossword blog (2013)](http://jblsmith.wordpress.com/)
 :	In autumn 2013 I maintained a blog to which I posted mini-puzzles biweekly (not fortnightly). In an effort to stretch myself, I wrote two sets of clues for each grid.
 
-[Prouts Neck Puzzle Hunt (2012)](http://www.music.mcgill.ca/~jordan/prouts_neck_hunt/)
+[Prouts Neck Puzzle Hunt (2012)]({{ site.baseurl }}/puzzles/prouts_hunt/main)
 :	In June 2012 I made a one-round puzzle hunt for my family to enjoy at the cottage we used to frequent. I spent the equivalent of one work week of my vacation to put it all together, including all the related errands I found myself doing (printing, buying a jigsaw puzzle, groceries, etc.) in the days before the hunt. The hunt was inspired, both in length and in style, by the [DASH puzzle events](http://www.playdash.org) that I had played for the previous 2 years. This is a slightly revised version of the hunt with solutions.
 
 [MIT Mystery Hunt (2012)](http://web.mit.edu/puzzle/www/2012/)
