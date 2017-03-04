@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Prouts Neck 2012 Puzzle Hunt
-permalink: /puzzles/prouts_hunt/main
+permalink: /puzzles/prouts_hunt/main/
 ---
 
 ## Introduction
@@ -53,7 +53,7 @@ Oh, ok, if you insist... Here are the solutions:
 - [Answer to Stop 7: Road Trip]({{ site.baseurl  }}/puzzles/prouts_hunt/stop7answer)
 - [Answer to Stop 8: Sardines]({{ site.baseurl  }}/puzzles/prouts_hunt/stop8answer)
 - [Answer to Stop 9: Cliff Path]({{ site.baseurl  }}/puzzles/prouts_hunt/stop9answer)
-- [Answer to Stop 10: Meta Puzzle]({{ site.baseurl  }}/puzzles/prouts_hunt/metaanswer)
+- [Answer to Stop 10: Meta Puzzle]({{ site.baseurl  }}/puzzles/prouts_hunt/meta-answer)
 
 ## Acknowledgements
 

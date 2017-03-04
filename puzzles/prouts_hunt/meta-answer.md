@@ -1,7 +1,7 @@
 ---
 layout: proutshuntpage
 title: "Meta (Answer)"
-permalink: /puzzles/prouts_hunt/metaanswer/
+permalink: /puzzles/prouts_hunt/meta-answer/
 ---
 
 By this stage, you'll have obtained the following 10 puzzle answers:

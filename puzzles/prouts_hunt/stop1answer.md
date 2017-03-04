@@ -1,7 +1,7 @@
 ---
 layout: proutshuntpage
 title: "Stop 1: Charades (Answer)"
-permalink: /puzzles/prouts_hunt/stop1answer
+permalink: /puzzles/prouts_hunt/stop1answer/
 ---
 
 If you place the films in order by date, you get:
