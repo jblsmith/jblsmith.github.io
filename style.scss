@@ -136,7 +136,7 @@ img {
   max-width: none;
 }
 
-.date {
+.date, .back_to_blog {
   font-style: italic;
   color: $gray;
 }
@@ -379,4 +379,14 @@ blockquote {
 
 table {
     width: 80%;
+}
+
+.post h1 {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.post .date {
+    margin-top: 0px;
+    padding-top: 0px;
 }

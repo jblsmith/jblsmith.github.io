@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New CrossSong article accepted for JNMR
+title: New CrossSong article accepted to JNMR
 ---
 
 Yesterday, we learned that our article entitled "The [CrossSong Puzzle](https://staff.aist.go.jp/jun.kato/CrossSong/): Developing a logic puzzle for musical thinking" was accepted by the *Journal of New Music Research* (JNMR). (Submitted July 2016, revised January 2017.)
