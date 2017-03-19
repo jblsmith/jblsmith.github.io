@@ -9,9 +9,9 @@ We introduced the CrossSong Puzzle in a paper presented at the Sound and Music C
 
 Full text will come later; for now, here is the abstract:
 
-> "The CrossSong Puzzle: Developing a logic puzzle for musical thinking." By Jordan B. L. Smith, Jun Kato, Satoru Fukayama, Graham Percival, and Masataka Goto.
+> **Details:** "The CrossSong Puzzle: Developing a logic puzzle for musical thinking." By Jordan B. L. Smith, Jun Kato, Satoru Fukayama, Graham Percival, and Masataka Goto. In *Journal of New Music Research.* 2017.
 >
-> There is considerable interest in music-based games and apps. However, in existing games, music generally serves as an accompaniment or as a reward for progress. We set out to design a game where paying attention to the music would be essential to making deductions and solving the puzzle. The result is the CrossSong Puzzle, a novel type of music-based logic puzzle that integrates musical and logical reasoning.
+> **Abstract:** There is considerable interest in music-based games and apps. However, in existing games, music generally serves as an accompaniment or as a reward for progress. We set out to design a game where paying attention to the music would be essential to making deductions and solving the puzzle. The result is the CrossSong Puzzle, a novel type of music-based logic puzzle that integrates musical and logical reasoning.
 > 
 > The game presents a player with a grid of tiles, each representing a mash-up of excerpts from two different songs. The goal is to rearrange the tiles so that each row and column plays a continuous musical excerpt.
 > 
