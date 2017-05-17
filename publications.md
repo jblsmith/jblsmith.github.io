@@ -19,10 +19,10 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Peer-reviewed journal and conference articles:
 
-To appear
-:	Smith, J. B. L., J. Kato, S. Fukayama, G. Percival, and M. Goto. 2017. The CrossSong Puzzle: Developing a logic puzzle for musical thinking. Accepted for publication in *Journal of New Music Research*.
+[Open Access text](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519), [BIB]({{ site.assetsurl }}/smith2017-jnmr-the_crosssong_puzzle.bib)
+:	Smith, J. B. L., J. Kato, S. Fukayama, G. Percival, and M. Goto. 2017. The CrossSong Puzzle: Developing a logic puzzle for musical thinking. To appear in *Journal of New Music Research*. [Published Open Access.](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519)
 
-To appear
+[BIB]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works.bib)
 :	Smith, J. B. L., M. Hamasaki, and M. Goto. 2017. Classifying derivative works with search, text, audio and video features. In *Proceedings of the International Conference on Multimedia and Expo*.
 
 [BIB]({{ site.assetsurl }}/yang2017-icassp-transcription_sung_melody.bib)
