@@ -25,7 +25,7 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 [BIB]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works.bib)
 :	Smith, J. B. L., M. Hamasaki, and M. Goto. 2017. Classifying derivative works with search, text, audio and video features. In *Proceedings of the International Conference on Multimedia and Expo*.
 
-[BIB]({{ site.assetsurl }}/yang2017-icassp-transcription_sung_melody.bib)
+[PDF]({{ site.assetsurl }}/yang2017-icassp-transcription_sung_melody.pdf), [BIB]({{ site.assetsurl }}/yang2017-icassp-transcription_sung_melody.bib)
 :	Yang, L., A. Maezawa, J. B. L. Smith, and E. Chew. 2017. Probabilistic transcription of sung melody using a pitch dynamic model. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. New Orleans, LA, USA. 301--305.
 
 [PDF]({{ site.assetsurl }}/watanabe2016-coling-discourse_segments_in_lyrics.pdf), [BIB]({{ site.assetsurl }}/watanabe2016-coling-discourse_segments_in_lyrics.bib)
