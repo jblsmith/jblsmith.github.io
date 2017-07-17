@@ -29,7 +29,7 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 :	Smith, J. B. L., J. Kato, S. Fukayama, G. Percival, and M. Goto. 2017. The CrossSong Puzzle: Developing a logic puzzle for musical thinking. To appear in *Journal of New Music Research*. [Published Open Access.](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519)
 
 [PDF]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works.pdf), [BIB]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works.bib), [Poster]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works-poster.pdf)
-:	Smith, J. B. L., M. Hamasaki, and M. Goto. 2017. Classifying derivative works with search, text, audio and video features. In *Proceedings of the International Conference on Multimedia and Expo*.
+:	Smith, J. B. L., M. Hamasaki, and M. Goto. 2017. Classifying derivative works with search, text, audio and video features. In *Proceedings of the International Conference on Multimedia and Expo*. Hong Kong, China. 1428--33.
 
 [PDF]({{ site.assetsurl }}/yang2017-icassp-transcription_sung_melody.pdf), [BIB]({{ site.assetsurl }}/yang2017-icassp-transcription_sung_melody.bib)
 :	Yang, L., A. Maezawa, J. B. L. Smith, and E. Chew. 2017. Probabilistic transcription of sung melody using a pitch dynamic model. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. New Orleans, LA, USA. 301--5.
