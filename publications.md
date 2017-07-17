@@ -19,14 +19,20 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Peer-reviewed journal and conference articles:
 
+[PDF]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music.pdf), [BIB]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music.bib)
+: Smith, J. B. L., and E. Chew. 2017. Automatic interpretation of music structure analyses: A validated technique for post-hoc estimation of the rationale for an annotation. To appear in *Proceedings of the International Society for Music Information Retrieval Conference*.
+
+[PDF]({{ site.assetsurl }}/smith2017-ismir-multi_part_pattern_analysis.pdf), [BIB]({{ site.assetsurl }}/smith2017-ismir-multi_part_pattern_analysis.bib)
+: Smith, J. B. L., and M. Goto. 2017. Multi-part pattern analysis: Combining structure analysis and source separation to discover intra-part repeated sequences. To appear in *Proceedings of the International Society for Music Information Retrieval Conference*.
+
 [Open Access text](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519), [BIB]({{ site.assetsurl }}/smith2017-jnmr-the_crosssong_puzzle.bib)
 :	Smith, J. B. L., J. Kato, S. Fukayama, G. Percival, and M. Goto. 2017. The CrossSong Puzzle: Developing a logic puzzle for musical thinking. To appear in *Journal of New Music Research*. [Published Open Access.](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519)
 
-[BIB]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works.bib)
+[PDF]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works.pdf), [BIB]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works.bib), [Poster]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works-poster.pdf)
 :	Smith, J. B. L., M. Hamasaki, and M. Goto. 2017. Classifying derivative works with search, text, audio and video features. In *Proceedings of the International Conference on Multimedia and Expo*.
 
 [PDF]({{ site.assetsurl }}/yang2017-icassp-transcription_sung_melody.pdf), [BIB]({{ site.assetsurl }}/yang2017-icassp-transcription_sung_melody.bib)
-:	Yang, L., A. Maezawa, J. B. L. Smith, and E. Chew. 2017. Probabilistic transcription of sung melody using a pitch dynamic model. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. New Orleans, LA, USA. 301--305.
+:	Yang, L., A. Maezawa, J. B. L. Smith, and E. Chew. 2017. Probabilistic transcription of sung melody using a pitch dynamic model. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. New Orleans, LA, USA. 301--5.
 
 [PDF]({{ site.assetsurl }}/watanabe2016-coling-discourse_segments_in_lyrics.pdf), [BIB]({{ site.assetsurl }}/watanabe2016-coling-discourse_segments_in_lyrics.bib)
 :	Watanabe, K., Y. Matsubayashi, N. Orita, N. Okazaki, K. Inui, S. Fukayama, T. Nakano, J. B. L. Smith, and M. Goto. 2016. Modeling discourse segments in lyrics using repeated patterns. In *Proceedings of the International Conference on Computational Linguistics (COLING)*. Osaka, Japan. 1959--69.
