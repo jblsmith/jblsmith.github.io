@@ -11,7 +11,7 @@ permalink: /cv/
 - [Conferences](#conferences-and-workshops) I've attended
 - [Peer Reviews](#peer-reviews)
 
-For a PDF of my CV (which combines all of the above with my [publications]({{ site.baseurl }}/publications/)), [click here]({{ site.baseurl }}/documents/CV.pdf).
+For a PDF of my CV (which combines all of the above with my [publications]({{ site.baseurl }}/publications/)), [click here]({{ site.baseurl }}/documents/CV.pdf). (Up-to-date as of September 2017.)
 
 ORCID assigns unique codes to individual scholars in order to efficiently track publications, funding awards, and employment. You can visit my [ORCID profile here](http://orcid.org/0000-0002-0316-1235).
 
@@ -65,7 +65,7 @@ Coding
 :	Matlab, Python. Used as needed: R, Ruby, Javascript.
 
 Tools
-:	Git, LaTeX/BibTeX, SciPy/NumPy, Pandas, HTML/CSS
+:	Git, LaTeX/BibTeX, NumPy/SciPy, Pandas, HTML/CSS
 
 Musical tools
 :	Sonic Visualiser, Audacity, Max/MSP, Pd
@@ -111,11 +111,17 @@ June 2006
 
 #### I have presented work at the following meetings:
 
+Oct. 23–27, 2017 (planned)
+:	The 18th International Society for Music Information Retrieval Conference (ISMIR). Suzhou, China.
+
+July 10–14, 2017
+:	The 2017 IEEE International Conference on Multimedia and Expo (ICME). Hong Kong, China.
+
 Aug. 12, 2016
 :	The 5th annual seminar on Cognitively based Music Informatics Research (CogMIR). New York City, USA. 
 
 Aug. 7–11, 2016
-:	The 17th International Society for Music Information Retrieval Conference (ISMIR). New York City, USA.
+:	The 17th ISMIR. New York City, USA.
 
 Feb. 28–March 4, 2016
 :	Dagstuhl Seminar on Computational Music Structure Analysis (invited).
@@ -127,7 +133,7 @@ Feb. 13–15, 2015
 :	Mathemusical Conversations: Mathematics and Computation in Music Performance and Composition. Also served as Publication Chair.
 
 Oct. 27–31, 2014
-:	The 15th International Society for Music Information Retrieval Conference (ISMIR). Taipei, Taiwan.
+:	The 15th ISMIR. Taipei, Taiwan.
 
 Sept. 18–20, 2014
 :	International Conference of Students of Systematic Musicology. London, UK.
@@ -139,7 +145,7 @@ Oct. 21–25, 2013
 :	The 21st ACM International Conference on Multimedia (ACMMM). Barcelona, Spain.
 
 Aug. 8–11, 2013
-:	The biennial meeting of the Society for Music Perception and Cognition (SMPC). Toronto, ON, Canada. *Also attended but did not present work at SMPC satellite event on Aug. 7: third annual seminar on Cognitively based Music Informatics Research (CogMIR).*
+:	The biennial meeting of the Society for Music Perception and Cognition (SMPC). Toronto, ON, Canada. *Also attended but did not present work at SMPC satellite event on Aug. 7: third annual CogMIR.*
 
 Dec. 18, 2012
 :	DMRN+7: Digital Music Research Network One-day Workshop. London, UK.
@@ -205,7 +211,7 @@ April 25–26, 2008
 
 ## Peer reviews
 
-- Reviewer for International Society for Music Information Retrieval (ISMIR) 2010, 2012–2014
-- Meta-reviewer for ISMIR 2015
+- Reviewer for *IEEE Transactions on Multimedia*, 2017
+- Reviewer for International Society for Music Information Retrieval (ISMIR) since 2010. Meta-reviewer since 2015.
 - Reviewer for *Music Perception*, 2015
 - Reviewer for *Journal of New Music Research*, 2015
