@@ -11,9 +11,9 @@ permalink: /cv/
 - [Conferences](#conferences-and-workshops) I've attended
 - [Peer Reviews](#peer-reviews)
 
-For a PDF of my CV (which combines all of the above with my [publications]({{ site.baseurl }}/publications/)), [click here]({{ site.baseurl }}/documents/CV.pdf). (Up-to-date as of September 2017.)
+[PDF copy]({{ site.baseurl }}/documents/CV.pdf) of my CV (Up-to-date as of September 2017). Combines the content below with my [publications]({{ site.baseurl }}/publications/)).
 
-ORCID assigns unique codes to individual scholars in order to efficiently track publications, funding awards, and employment. You can visit my [ORCID profile here](http://orcid.org/0000-0002-0316-1235).
+[ORCID profile link](http://orcid.org/0000-0002-0316-1235). ORCID assigns unique codes to individual scholars in order to efficiently track publications, funding awards, and employment.
 
 ## Education
 

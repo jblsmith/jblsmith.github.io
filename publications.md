@@ -5,7 +5,8 @@ permalink: /publications/
 ---
 
 - [Book](#book)
-- [Peer-reviewed full text](#peer-reviewed-journal-and-conference-articles)
+- [Journal](#journal-articles)
+- [Peer-reviewed full text](#peer-reviewed-conference-articles)
 - [Peer-reviewed abstract](#peer-reviewed-conference-presentations-on-the-basis-of-an-abstract)
 - [Theses](#theses)
 - [Other writings and presentations](#other-writings-and-presentations)
@@ -17,16 +18,24 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 [Link](http://www.worldscientific.com/worldscibooks/10.1142/10046), [BIB]({{ site.assetsurl }}/smith2016-mathemusical_conversations.bib)
 :	Smith, J. B. L., E. Chew, and G. Assayag, eds. 2016. *Mathemusical Conversations: Mathematics and Computation in Music Performance and Composition*. Volume 32 of Lecture Notes Series, Institute for Mathematical Sciences, National University of Singapore. World Scientific / Imperial College Press.
 
-### Peer-reviewed journal and conference articles:
+### Journal articles:
+
+[Open Access text](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519), [BIB]({{ site.assetsurl }}/smith2017-jnmr-the_crosssong_puzzle.bib)
+:	Smith, J. B. L., J. Kato, S. Fukayama, G. Percival, and M. Goto. 2017. The CrossSong Puzzle: Developing a logic puzzle for musical thinking. *Journal of New Music Research* 46: 3. 213--28. [Published Open Access.](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519)
+
+[Online text](http://www.mtosmt.org/issues/mto.14.20.3/mto.14.20.3.smith_schankler_chew.php), [BIB]({{ site.assetsurl }}/smith2014-mto-listening_as_a_creative_act.bib), [Details]({{ site.baseurl }}/projects/listener-disagreements/)
+:	Smith, J. B. L., I. Schankler, and E. Chew. 2014. Listening as a creative act: Meaningful differences in structural annotations of improvised performances. *Music Theory Online*. 20: 3.
+
+[PDF (pre-print)]({{ site.assetsurl }}/smith2014-ieee-audio_properties.pdf), [BIB]({{ site.assetsurl }}/smith2014-ieee-audio_properties.bib), [Details]({{ site.baseurl }}/projects/boundaries-novelty/)
+:	Smith, J. B. L., C.-H. Chuan, and E. Chew. 2014 (submitted in 2012). Audio properties of perceived boundaries in music. *IEEE Transactions on Multimedia* 16: 5. 1219--28. Published version available at [IEEE Xplore](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6762890).
+
+### Peer-reviewed conference articles:
 
 [PDF]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music.pdf), [BIB]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music.bib)
 : Smith, J. B. L., and E. Chew. 2017. Automatic interpretation of music structure analyses: A validated technique for post-hoc estimation of the rationale for an annotation. To appear in *Proceedings of the International Society for Music Information Retrieval Conference*.
 
 [PDF]({{ site.assetsurl }}/smith2017-ismir-multi_part_pattern_analysis.pdf), [BIB]({{ site.assetsurl }}/smith2017-ismir-multi_part_pattern_analysis.bib)
 : Smith, J. B. L., and M. Goto. 2017. Multi-part pattern analysis: Combining structure analysis and source separation to discover intra-part repeated sequences. To appear in *Proceedings of the International Society for Music Information Retrieval Conference*.
-
-[Open Access text](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519), [BIB]({{ site.assetsurl }}/smith2017-jnmr-the_crosssong_puzzle.bib)
-:	Smith, J. B. L., J. Kato, S. Fukayama, G. Percival, and M. Goto. 2017. The CrossSong Puzzle: Developing a logic puzzle for musical thinking. To appear in *Journal of New Music Research*. [Published Open Access.](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519)
 
 [PDF]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works.pdf), [BIB]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works.bib), [Poster]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works-poster.pdf)
 :	Smith, J. B. L., M. Hamasaki, and M. Goto. 2017. Classifying derivative works with search, text, audio and video features. In *Proceedings of the International Conference on Multimedia and Expo*. Hong Kong, China. 1428--33.
@@ -42,12 +51,6 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 [PDF]({{ site.assetsurl }}/smith2015-smc-crosssong_puzzle.pdf), [BIB]({{ site.assetsurl }}/smith2015-smc-crosssong_puzzle.bib), [Website](https://staff.aist.go.jp/jun.kato/CrossSong/)
 :	Smith, J. B. L., G. Percival, J. Kato, M. Goto, and S. Fukayama. 2015. CrossSong Puzzle: Generating and unscrambling music mashups with real-time interactivity. *Proceedings of the Sound and Music Computing Conference*. 61--7. Winner of the Best Paper Award at SMC!
-
-[Online text](http://www.mtosmt.org/issues/mto.14.20.3/mto.14.20.3.smith_schankler_chew.php), [BIB]({{ site.assetsurl }}/smith2014-mto-listening_as_a_creative_act.bib), [Details]({{ site.baseurl }}/projects/listener-disagreements/)
-:	Smith, J. B. L., I. Schankler, and E. Chew. 2014. Listening as a creative act: Meaningful differences in structural annotations of improvised performances. *Music Theory Online*. 20: 3.
-
-[PDF (pre-print)]({{ site.assetsurl }}/smith2014-ieee-audio_properties.pdf), [BIB]({{ site.assetsurl }}/smith2014-ieee-audio_properties.bib), [Details]({{ site.baseurl }}/projects/boundaries-novelty/)
-:	Smith, J. B. L., C.-H. Chuan, and E. Chew. 2014 (submitted in 2012). Audio properties of perceived boundaries in music. *IEEE Transactions on Multimedia* 16: 5. 1219--28. Published version available at [IEEE Xplore](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6762890).
 
 [PDF]({{ site.assetsurl }}/smith2013-ismir-mirex_meta_analysis.pdf), [BIB]({{ site.assetsurl }}/smith2013-ismir-mirex_meta_analysis.bib), [Poster]({{ site.assetsurl }}/smith2013-ismir-mirex_meta_analysis-poster.pdf), [Details]({{ site.baseurl }}/projects/mirex-meta-analysis/)
 :	Smith, J. B. L., and E. Chew. 2013. A meta-analysis of the MIREX Structural Segmentation task. *Proceedings of the International Society for Music Information Retrieval Conference*. 251--6.
