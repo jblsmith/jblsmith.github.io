@@ -3,7 +3,7 @@ layout: post
 title: CrossSong, in print and online
 ---
 
-Our *Journal of New Music Research* (JNMR) article about the CrossSong puzzle is now print! The article was published Open Access, so everyone can view [the full article online](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519). I'm also pleased to announce a major update to the [online demo of our system](https://staff.aist.go.jp/jun.kato/CrossSong/demo/).
+Our article about the CrossSong puzzle is now print! The article was published in the *Journal of New Music Research* (JNMR) with Open Access, so everyone can view [the full article online](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519). I'm also pleased to announce a major update to the [online demo of our system](https://staff.aist.go.jp/jun.kato/CrossSong/demo/).
 
 New features include:
 
