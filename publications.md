@@ -32,46 +32,46 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 ### Peer-reviewed conference articles:
 
 [PDF]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music.pdf), [BIB]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music.bib)
-: Smith, J. B. L., and E. Chew. 2017. Automatic interpretation of music structure analyses: A validated technique for post-hoc estimation of the rationale for an annotation. To appear in *Proceedings of the International Society for Music Information Retrieval Conference*.
+: Smith, J. B. L., and E. Chew. 2017. Automatic interpretation of music structure analyses: A validated technique for post-hoc estimation of the rationale for an annotation. *Proceedings of the International Society for Music Information Retrieval Conference*. Suzhou, China. 435--41.
 
 [PDF]({{ site.assetsurl }}/smith2017-ismir-multi_part_pattern_analysis.pdf), [BIB]({{ site.assetsurl }}/smith2017-ismir-multi_part_pattern_analysis.bib)
-: Smith, J. B. L., and M. Goto. 2017. Multi-part pattern analysis: Combining structure analysis and source separation to discover intra-part repeated sequences. To appear in *Proceedings of the International Society for Music Information Retrieval Conference*.
+: Smith, J. B. L., and M. Goto. 2017. Multi-part pattern analysis: Combining structure analysis and source separation to discover intra-part repeated sequences. *Proceedings of the International Society for Music Information Retrieval Conference*. Suzhou, China. 716--23.
 
 [PDF]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works.pdf), [BIB]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works.bib), [Poster]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works-poster.pdf)
-:	Smith, J. B. L., M. Hamasaki, and M. Goto. 2017. Classifying derivative works with search, text, audio and video features. In *Proceedings of the International Conference on Multimedia and Expo*. Hong Kong, China. 1428--33.
+:	Smith, J. B. L., M. Hamasaki, and M. Goto. 2017. Classifying derivative works with search, text, audio and video features. *Proceedings of the International Conference on Multimedia and Expo*. Hong Kong, China. 1428--33.
 
 [PDF]({{ site.assetsurl }}/yang2017-icassp-transcription_sung_melody.pdf), [BIB]({{ site.assetsurl }}/yang2017-icassp-transcription_sung_melody.bib)
-:	Yang, L., A. Maezawa, J. B. L. Smith, and E. Chew. 2017. Probabilistic transcription of sung melody using a pitch dynamic model. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. New Orleans, LA, USA. 301--5.
+:	Yang, L., A. Maezawa, J. B. L. Smith, and E. Chew. 2017. Probabilistic transcription of sung melody using a pitch dynamic model. *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. New Orleans, LA, USA. 301--5.
 
 [PDF]({{ site.assetsurl }}/watanabe2016-coling-discourse_segments_in_lyrics.pdf), [BIB]({{ site.assetsurl }}/watanabe2016-coling-discourse_segments_in_lyrics.bib)
-:	Watanabe, K., Y. Matsubayashi, N. Orita, N. Okazaki, K. Inui, S. Fukayama, T. Nakano, J. B. L. Smith, and M. Goto. 2016. Modeling discourse segments in lyrics using repeated patterns. In *Proceedings of the International Conference on Computational Linguistics (COLING)*. Osaka, Japan. 1959--69.
+:	Watanabe, K., Y. Matsubayashi, N. Orita, N. Okazaki, K. Inui, S. Fukayama, T. Nakano, J. B. L. Smith, and M. Goto. 2016. Modeling discourse segments in lyrics using repeated patterns. *Proceedings of the International Conference on Computational Linguistics (COLING)*. Osaka, Japan. 1959--69.
 
 [PDF]({{ site.assetsurl }}/smith2016-ismir-using_priors.pdf), [BIB]({{ site.assetsurl }}/smith2016-ismir-using_priors.bib), [Slides]({{ site.assetsurl }}/smith2016-ismir-using_priors-slides.pdf)
-:	Smith, J. B. L., and M. Goto. 2016. Using priors to improve estimates of music structure. *Proceedings of the International Society for Music Information Retrieval Conference*. 554--60.
+:	Smith, J. B. L., and M. Goto. 2016. Using priors to improve estimates of music structure. *Proceedings of the International Society for Music Information Retrieval Conference*. New York, NY, USA. 554--60.
 
 [PDF]({{ site.assetsurl }}/smith2015-smc-crosssong_puzzle.pdf), [BIB]({{ site.assetsurl }}/smith2015-smc-crosssong_puzzle.bib), [Website](https://staff.aist.go.jp/jun.kato/CrossSong/)
-:	Smith, J. B. L., G. Percival, J. Kato, M. Goto, and S. Fukayama. 2015. CrossSong Puzzle: Generating and unscrambling music mashups with real-time interactivity. *Proceedings of the Sound and Music Computing Conference*. 61--7. Winner of the Best Paper Award at SMC!
+:	Smith, J. B. L., G. Percival, J. Kato, M. Goto, and S. Fukayama. 2015. CrossSong Puzzle: Generating and unscrambling music mashups with real-time interactivity. *Proceedings of the Sound and Music Computing Conference*. Maynooth, Ireland. 61--7. Winner of the Best Paper Award at SMC!
 
 [PDF]({{ site.assetsurl }}/smith2013-ismir-mirex_meta_analysis.pdf), [BIB]({{ site.assetsurl }}/smith2013-ismir-mirex_meta_analysis.bib), [Poster]({{ site.assetsurl }}/smith2013-ismir-mirex_meta_analysis-poster.pdf), [Details]({{ site.baseurl }}/projects/mirex-meta-analysis/)
-:	Smith, J. B. L., and E. Chew. 2013. A meta-analysis of the MIREX Structural Segmentation task. *Proceedings of the International Society for Music Information Retrieval Conference*. 251--6.
+:	Smith, J. B. L., and E. Chew. 2013. A meta-analysis of the MIREX Structural Segmentation task. *Proceedings of the International Society for Music Information Retrieval Conference*. Curitiba, Brazil. 251--6.
 
 [PDF]({{ site.assetsurl }}/smith2013-acm-estimating_feature_relevance.pdf), [BIB]({{ site.assetsurl }}/smith2013-acm-estimating_feature_relevance.bib), [Video](https://vimeo.com/77448578), [Details]({{ site.baseurl }}/projects/feature-relevance/)
-:	Smith, J. B. L., and E. Chew. 2013. Using Quadratic Programming to estimate feature relevance in structural analyses of music. *Proceedings of the ACM International Conference on Multimedia*. 113-22.
+:	Smith, J. B. L., and E. Chew. 2013. Using Quadratic Programming to estimate feature relevance in structural analyses of music. *Proceedings of the ACM International Conference on Multimedia*. Barcelona, Spain. 113-22.
 
 [PDF]({{ site.assetsurl }}/terrell2012-ismir-listening_level.pdf), [BIB]({{ site.assetsurl }}/terrell2012-ismir-listening_level.bib)
-:	Terrell, Michael J., G. Fazekas, A. J. R. Simpson, J. B. L. Smith, and S. Dixon. 2012. Listening level changes music similarity. *Proceedings of the International Society for Music Information Retrieval Conference*. 487--92.
+:	Terrell, Michael J., G. Fazekas, A. J. R. Simpson, J. B. L. Smith, and S. Dixon. 2012. Listening level changes music similarity. *Proceedings of the International Society for Music Information Retrieval Conference*. Porto, Portugal. 487--92.
 
 [PDF]({{ site.assetsurl }}/smith2011-ismir-design_and_creation.pdf), [BIB]({{ site.assetsurl }}/smith2011-ismir-design_and_creation.bib), [Website](http://ddmal.music.mcgill.ca/research/salami/)
-:	Smith, J. B. L., J. A. Burgoyne, I. Fujinaga, D. De Roure and J. S. Downie. 2011. Design and creation of a large-scale database of structural annotations. *Proceedings of the International Society for Music Information Retrieval Conference*. 555--60.
+:	Smith, J. B. L., J. A. Burgoyne, I. Fujinaga, D. De Roure and J. S. Downie. 2011. Design and creation of a large-scale database of structural annotations. *Proceedings of the International Society for Music Information Retrieval Conference*. Miami, FL, USA. 555--60.
 
 [PDF (preprint)]({{ site.assetsurl }}/schankler2011-mcm-emergent_formal_structures.pdf), [BIB]({{ site.assetsurl }}/schankler2011-mcm-emergent_formal_structures.bib), [Slides]({{ site.assetsurl }}/schankler2011-mcm-emergent_formal_structures-slides.pdf)
 :	Schankler, I., J. B. L. Smith, A François and E. Chew. 2011. Emergent formal structures of factor oracle-driven musical improvisations. In *Mathematics and Computation in Music*, eds. C. Agon, M. Andreatta, G. Assayag, E. Amiot, J. Bresson and J. Mandereau. Lecture Notes in Artificial Intelligence 6726, 241--54. Published version available at [Springer Link](http://link.springer.com/chapter/10.1007%2F978-3-642-21590-2_19).
 
 [PDF]({{ site.assetsurl }}/mckay2010-ismir-lyrical_features.pdf), [BIB]({{ site.assetsurl }}/mckay2010-ismir-lyrical_features.bib)
-:	McKay, C., J. A. Burgoyne, J. Hockman, J. B. L. Smith, G. Vigliensoni, and I. Fujinaga. 2010. Evaluating the genre classification performance of lyrical features relative to audio, symbolic and cultural features. *Proceedings of the International Society for Music Information Retrieval Conference*. 213--8.
+:	McKay, C., J. A. Burgoyne, J. Hockman, J. B. L. Smith, G. Vigliensoni, and I. Fujinaga. 2010. Evaluating the genre classification performance of lyrical features relative to audio, symbolic and cultural features. *Proceedings of the International Society for Music Information Retrieval Conference*. Utrecht, Netherlands. 213--8.
 
 [PDF]({{ site.assetsurl }}/li2009-ismir-optical_audio_reconstruction.pdf), [BIB]({{ site.assetsurl }}/li2009-ismir-optical_audio_reconstruction.bib)
-:	Li, B., J. B. L. Smith and I. Fujinaga. 2009. Optical audio reconstruction for stereo phonograph records using white light interferometry. *Proceedings of the International Society for Music Information Retrieval Conference*. 627--32.
+:	Li, B., J. B. L. Smith and I. Fujinaga. 2009. Optical audio reconstruction for stereo phonograph records using white light interferometry. *Proceedings of the International Society for Music Information Retrieval Conference*. Kobe, Japan. 627--32.
 
 ### Peer-reviewed conference presentations on the basis of an abstract:
 
