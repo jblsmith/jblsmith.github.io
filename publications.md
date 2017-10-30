@@ -31,10 +31,10 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Peer-reviewed conference articles:
 
-[PDF]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music.pdf), [BIB]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music.bib)
+[PDF]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music.pdf), [BIB]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music.bib), [Poster]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music-poster.pdf)
 : Smith, J. B. L., and E. Chew. 2017. Automatic interpretation of music structure analyses: A validated technique for post-hoc estimation of the rationale for an annotation. *Proceedings of the International Society for Music Information Retrieval Conference*. Suzhou, China. 435--41.
 
-[PDF]({{ site.assetsurl }}/smith2017-ismir-multi_part_pattern_analysis.pdf), [BIB]({{ site.assetsurl }}/smith2017-ismir-multi_part_pattern_analysis.bib)
+[PDF]({{ site.assetsurl }}/smith2017-ismir-multi_part_pattern_analysis.pdf), [BIB]({{ site.assetsurl }}/smith2017-ismir-multi_part_pattern_analysis.bib), [Poster]({{ site.assetsurl }}/smith2017-ismir-multi_part_pattern_analysis-poster.pdf)
 : Smith, J. B. L., and M. Goto. 2017. Multi-part pattern analysis: Combining structure analysis and source separation to discover intra-part repeated sequences. *Proceedings of the International Society for Music Information Retrieval Conference*. Suzhou, China. 716--23.
 
 [PDF]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works.pdf), [BIB]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works.bib), [Poster]({{ site.assetsurl }}/smith2017-icme-classifying_derivative_works-poster.pdf)
@@ -84,7 +84,7 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 [Slides](http://www.terasoft.com.tw/conf/ismir2014/tutorial/2014_MuellerSmith_MusicStructure_Tutorial-ISMIR_Part-2.pdf), [Abstract](http://www.terasoft.com.tw/conf/ismir2014/tutorialschedule.html)
 :	Müller, M., and J. B. L. Smith. 27 October 2014. "Music Structure Analysis". Tutorial at the International Society for Music Information Retrieval Conference, Taipei, Taiwan.
 
-[Abstract]({{ site.assetsurl }}/smith2014-sysmus-role_of_attention.pdf), Poster [PDF]({{ site.assetsurl }}/smith2014-sysmus-role_of_attention-poster.pdf), [Details]({{ site.baseurl }}/projects/attention-grouping/)
+[Abstract]({{ site.assetsurl }}/smith2014-sysmus-role_of_attention.pdf), [Poster]({{ site.assetsurl }}/smith2014-sysmus-role_of_attention-poster.pdf), [Details]({{ site.baseurl }}/projects/attention-grouping/)
 :	Smith, J. B. L., M. T. Pearce, and E. Chew. 2014. "The role of attention in the perception of music structure." Poster presentation at the International Conference of Students of Systematic Musicology, [SysMus14](http://www.musicmindbrain.com/#!sysmus-2014/cfmp).
 
 [Abstract]({{ site.assetsurl }}/smith2013-smpc-learning_about_structure.pdf)

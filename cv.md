@@ -111,8 +111,8 @@ June 2006
 
 #### I have presented work at the following meetings:
 
-Oct. 23–27, 2017 (planned)
-:	The 18th International Society for Music Information Retrieval Conference (ISMIR). Suzhou, China.
+Oct. 23–27, 2017
+:	The 18th International Society for Music Information Retrieval Conference (ISMIR). Suzhou, China. Served as chair for Oral Session 6: Structure.
 
 July 10–14, 2017
 :	The 2017 IEEE International Conference on Multimedia and Expo (ICME). Hong Kong, China.
