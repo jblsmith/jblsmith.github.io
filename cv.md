@@ -15,6 +15,8 @@ permalink: /cv/
 
 [ORCID profile link](http://orcid.org/0000-0002-0316-1235). ORCID assigns unique codes to individual scholars in order to efficiently track publications, funding awards, and employment.
 
+[Publons profile link](https://publons.com/author/1404961/jordan-b-l-smith#profile). Publons tracks and verifies peer reviews.
+
 ## Work experience
 
 Feb. 2018–present
@@ -214,7 +216,7 @@ April 25–26, 2008
 
 ## Peer reviews
 
-- Reviewer for *IEEE Transactions on Multimedia*, 2017
 - Reviewer for International Society for Music Information Retrieval (ISMIR) since 2010. Meta-reviewer since 2015.
-- Reviewer for *Music Perception*, 2015
-- Reviewer for *Journal of New Music Research*, 2015
+- Reviewer for *IEEE Transactions on Multimedia*, 2017
+- Reviewer for *Journal of New Music Research*, 2015, 2018
+- Reviewer for *Music Perception*, 2015--16

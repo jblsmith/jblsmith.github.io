@@ -5,7 +5,7 @@ layout: page
 I conduct research in the field of music informatics, an interdisciplinary mix of music theory, signal processing and psychology.
 My research often focuses on musical structure: i.e., the abstract form of a piece, or how it is composed of repeated and varied sections.
 
-I'm currently a post-doctoral researcher on a project called "[Dig That Lick](http://dig-that-lick.eecs.qmul.ac.uk/)", which will analyze melodic patterns in jazz music on a large scale. It's my second [Digging Into Data](https://diggingintodata.org/)-funded project after [SALAMI](http://ddmal.music.mcgill.ca/research/salami).
+I'm currently a post-doctoral researcher on a project called "[Dig That Lick](http://dig-that-lick.eecs.qmul.ac.uk/)", which will analyze melodic patterns in jazz music on a large scale. It's the second [Digging Into Data](https://diggingintodata.org/)-funded project I've worked on after [SALAMI](http://ddmal.music.mcgill.ca/research/salami).
 
 I'm working jointly at [IRCAM](https://www.ircam.fr/) with [Geoffroy Peeters](http://recherche.ircam.fr/anasyn/peeters/) and at L2S, the [Laboratoire des Signaux et Systèmes](http://www.l2s.centralesupelec.fr/), with [Hélène Papadopoulos](http://www.helenepapadopoulos.com/)).
 

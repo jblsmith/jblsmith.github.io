@@ -31,6 +31,12 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Peer-reviewed conference articles:
 
+To appear
+: Smith, J. B. L., and M. Goto. 2018. Nonnegative tensor factorization for source separation of loops in audio. To appear in the *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. Calgary, Canada.
+
+To appear
+: Cheng, T., J. B. L. Smith, and M. Goto. 2018. Music structure boundary detection and labelling by a deconvolution of path-enhanced self-similarity matrix. To appear in the *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. Calgary, Canada.
+
 [PDF]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music.pdf), [BIB]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music.bib), [Poster]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music-poster.pdf)
 : Smith, J. B. L., and E. Chew. 2017. Automatic interpretation of music structure analyses: A validated technique for post-hoc estimation of the rationale for an annotation. *Proceedings of the International Society for Music Information Retrieval Conference*. Suzhou, China. 435--41.
 
