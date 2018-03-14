@@ -7,7 +7,7 @@ My research often focuses on musical structure: i.e., the abstract form of a pie
 
 I'm currently a post-doctoral researcher on a project called "[Dig That Lick](http://dig-that-lick.eecs.qmul.ac.uk/)", which will analyze melodic patterns in jazz music on a large scale. It's the second [Digging Into Data](https://diggingintodata.org/)-funded project I've worked on after [SALAMI](http://ddmal.music.mcgill.ca/research/salami).
 
-I'm working jointly at [IRCAM](https://www.ircam.fr/) with [Geoffroy Peeters](http://recherche.ircam.fr/anasyn/peeters/) and at L2S, the [Laboratoire des Signaux et Systèmes](http://www.l2s.centralesupelec.fr/), with [Hélène Papadopoulos](http://www.helenepapadopoulos.com/)).
+I'm working jointly at [IRCAM](https://www.ircam.fr/) with [Geoffroy Peeters](http://recherche.ircam.fr/anasyn/peeters/) and at L2S, the [Laboratoire des Signaux et Systèmes](http://www.l2s.centralesupelec.fr/), with Hélène Papadopoulos.
 
 Before this, I spent three years working in Professor Masataka Goto's [Media Interaction Group](https://staff.aist.go.jp/m.goto/MIG/index-j.html) at [AIST](http://www.aist.go.jp/index_en.html) in Japan on a diverse set of projects, from music analysis to video classification to music games.
 
