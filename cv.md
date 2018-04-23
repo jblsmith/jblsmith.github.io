@@ -116,6 +116,9 @@ June 2006
 
 #### I have presented work at the following meetings:
 
+April 15–20, 2018
+:	The IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Calgary, AB, Canada.
+
 Oct. 23–27, 2017
 :	The 18th International Society for Music Information Retrieval Conference (ISMIR). Suzhou, China. Served as chair for Oral Session 6: Structure.
 
