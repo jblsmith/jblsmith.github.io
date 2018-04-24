@@ -12,6 +12,10 @@ permalink: /projects/
   }
 </style>
 
+### Extracting loops with nonnegative tensor factorization (2018)
+<a class="project_icon" href="{{ site.baseurl }}/projects/nonnegative-tensor-factorization/"><img src="{{ site.baseurl }}/images/thumbnail_ntf.png" /></a>
+Plenty of electronic music is based around loops. We propose a way to identify and extract the loops via source separation, and to provide a map of the piece, all in a single step using nonnegative tensor factorization.
+
 ### Multi-dimensional views of music structure (2017)
 Music structure is typically viewed as a one-dimensional phenomenon: each point in time is assigned a single label, which tells you which other points in the music are similar and which are different. However, musical structure is richer than that: different instrument parts can set up independent patterns of repetition; and different musical attributes, like melody, harmony and timbre, can be salient at different times. The following research projects explore these broader views of music structure.
 
