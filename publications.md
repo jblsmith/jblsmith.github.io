@@ -31,7 +31,7 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Peer-reviewed conference articles:
 
-[BIB]({{ site.assetsurl }}/smith2018-icassp-nonnegative_tensor_factorization.bib)
+[PDF]({{ site.assetsurl }}/smith2018-icassp-nonnegative_tensor_factorization.pdf), [BIB]({{ site.assetsurl }}/smith2018-icassp-nonnegative_tensor_factorization.bib)
 : Smith, J. B. L., and M. Goto. 2018. Nonnegative tensor factorization for source separation of loops in audio. In the *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. Calgary, AB, Canada. 171--5.
 
 [BIB]({{ site.assetsurl }}/cheng2018-icassp-music_structure_boundary.bib)
