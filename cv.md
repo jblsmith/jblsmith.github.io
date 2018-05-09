@@ -116,6 +116,9 @@ June 2006
 
 #### I have presented work at the following meetings:
 
+June 11–13, 2018
+:	The European Research Music Conference. Barcelona, Spain.
+
 April 15–20, 2018
 :	The IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Calgary, AB, Canada.
 
