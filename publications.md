@@ -124,6 +124,9 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Other writings and presentations:
 
+To appear
+:	Smith, J. B. L. 12 June 2018. "Multi-dimensional views of music structure." Talk at the European Music Research Conference, at Universitat Pompeu Fabra, Barcelona, Spain.
+
 [Abstract](http://materials.dagstuhl.de/abstractPopup.php?xif_session_id=gjencq46n9kbi42d08gblok9k6&participantIndex=27&documentIndex=0), [PDF]({{ site.assetsurl }}/smith2016-dagstuhl-using_prior_expectations-slides.pdf)
 :	Smith, J. B. L. and M. Goto. 3 March 2016. "Using prior expectations to improve structural analysis: A cautionary tale." Stimulus talk at the Dagstuhl Seminar on Computational Music Structure Analysis.
 
