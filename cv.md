@@ -19,7 +19,7 @@ permalink: /cv/
 
 ## Work experience
 
-Feb. 2018–present
+Feb. 2018–Oct. 2018
 : Post-doctoral researcher for the [Dig That Lick](http://dig-that-lick.eecs.qmul.ac.uk/) project at  [IRCAM](https://www.ircam.fr/) and L2S, the [Laboratoire des Signaux et Systèmes](http://www.l2s.centralesupelec.fr/).
 
 Nov. 2014–Dec. 2017
@@ -103,6 +103,9 @@ June 2004
 
 ## Other awards
 
+Sept. 2018
+:	Best Research Direction at Hacking Audio and Music Research (HAMR) @ ISMIR 2018, Paris, France. [Github](https://github.com/jblsmith/hypermeter), [presentation](https://youtu.be/u3IJ2CYw66I?t=485).
+
 Aug. 2015
 :	Best Paper Award for “CrossSong Puzzle: Generating and unscrambling music mashups with real-time interactivity,” presented at Sound and Music Computing Conference in Maynooth, Ireland. €500, plus an invitation to submit to the Journal of New Music Research.
 
@@ -116,6 +119,9 @@ June 2006
 
 #### I have presented work at the following meetings:
 
+Sept. 24–28, 2018
+:	The 19th International Society for Music Information Retrieval Conference (ISMIR). Paris, France.
+
 June 11–13, 2018
 :	The European Research Music Conference. Barcelona, Spain.
 
@@ -123,7 +129,7 @@ April 15–20, 2018
 :	The IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Calgary, AB, Canada.
 
 Oct. 23–27, 2017
-:	The 18th International Society for Music Information Retrieval Conference (ISMIR). Suzhou, China. Served as chair for Oral Session 6: Structure.
+:	The 18th ISMIR. Suzhou, China. Served as chair for Oral Session 6: Structure.
 
 July 10–14, 2017
 :	The 2017 IEEE International Conference on Multimedia and Expo (ICME). Hong Kong, China.
