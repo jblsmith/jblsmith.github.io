@@ -12,13 +12,13 @@ permalink: /projects/
   }
 </style>
 
-### Extracting loops with nonnegative tensor factorization (2018)
-<a class="project_icon" href="{{ site.baseurl }}/projects/nonnegative-tensor-factorization/"><img src="{{ site.baseurl }}/images/thumbnail_ntf.png" /></a>
-Plenty of electronic music is based around loops. We propose a way to identify and extract the loops via source separation, and to provide a map of the piece, all in a single step using nonnegative tensor factorization.
-
 ### Multi-dimensional views of music structure (2017)
 Music structure is typically viewed as a one-dimensional phenomenon: each point in time is assigned a single label, which tells you which other points in the music are similar and which are different. However, musical structure is richer than that: different instrument parts can set up independent patterns of repetition; and different musical attributes, like melody, harmony and timbre, can be salient at different times. The following research projects explore these broader views of music structure.
 
+> ### [Extracting loops with nonnegative tensor factorization (2018)]({{ site.baseurl }}/projects/nonnegative-tensor-factorization/)
+> <a class="project_icon" href="{{ site.baseurl }}/projects/nonnegative-tensor-factorization/"><img src="{{ site.baseurl }}/images/thumbnail_ntf.png" /></a>
+Plenty of electronic music is based around loops. We propose a way to identify and extract the loops via source separation, and to provide a map of the piece, all in a single step using nonnegative tensor factorization.
+>
 > ### [Multi-part pattern analysis (2017)]({{ site.baseurl }}/projects/multi-part-pattern-analysis/)
 > <a class="project_icon" href="{{ site.baseurl }}/projects/multi-part-pattern-analysis/"><img src="{{ site.baseurl }}/images/thumbnail_multipart.png" /></a>
 > In typical songs, different instrument parts repeat at different times with different patterns. These patterns are evident in the score, but can we discover all of these independent patterns from audio recordings? We lay out a framework for this ambitious new problem, including methods for solving it, generating data, and evaluating our performance. The results so far are underwhelming, but through our efforts we learned a lot about the sparseness of the problem we posed.
