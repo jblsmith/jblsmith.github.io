@@ -11,7 +11,7 @@ permalink: /cv/
 - [Conferences](#conferences-and-workshops) I've attended
 - [Peer Reviews](#peer-reviews)
 
-[PDF copy]({{ site.baseurl }}/documents/CV.pdf) of my CV (Up-to-date as of September 2017). Combines the content below with my [publications]({{ site.baseurl }}/publications/)).
+<!-- [PDF copy]({{ site.baseurl }}/documents/CV.pdf) of my CV (Up-to-date as of September 2017). Combines the content below with my [publications]({{ site.baseurl }}/publications/)). -->
 
 [ORCID profile link](http://orcid.org/0000-0002-0316-1235). ORCID assigns unique codes to individual scholars in order to efficiently track publications, funding awards, and employment.
 
@@ -229,6 +229,7 @@ April 25–26, 2008
 ## Peer reviews
 
 - Reviewer for International Society for Music Information Retrieval (ISMIR) since 2010. Meta-reviewer since 2015.
+- Reviewer for China Conference on Sound and Music Technology, 2018.
 - Reviewer for *IEEE Transactions on Multimedia*, 2017
 - Reviewer for *Journal of New Music Research*, 2015, 2018
 - Reviewer for *Music Perception*, 2015--16
