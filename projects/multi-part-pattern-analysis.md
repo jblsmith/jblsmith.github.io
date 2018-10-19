@@ -8,9 +8,16 @@ class: project_page
 [PDF]({{ site.assetsurl }}/smith2017-ismir-multi_part_pattern_analysis.pdf), [BIB]({{ site.assetsurl }}/smith2017-ismir-multi_part_pattern_analysis.bib), [Poster]({{ site.assetsurl }}/smith2017-ismir-multi_part_pattern_analysis-poster.pdf)
 : Smith, J. B. L., and M. Goto. 2017. Multi-part pattern analysis: Combining structure analysis and source separation to discover intra-part repeated sequences. *Proceedings of the International Society for Music Information Retrieval Conference*. Suzhou, China. 716--23.
 
-In typical songs, different instrument parts repeat at different times with different patterns. These patterns are evident in the score, but can we discover all of these independent patterns from audio recordings? We lay out a framework for this ambitious new problem, including methods for solving it, generating data, and evaluating our performance. The system does not perform very well yet, but through our efforts we learned a lot about the sparseness of the problem we posed.
+In typical songs, different instrument parts repeat at different times with different patterns. These patterns are evident in the score, but can we discover all of these independent patterns from audio recordings? In this work, we:
 
-###  Multi-dimensional structure
+- [lay out a framework for this ambitious new problem](#defining-the-problem),
+- propose [a method for solving it](#estimating-a-description),
+- propose [a method for generating data](#generating-ground-truth),
+- and present [a framework for evaluating our performance](#evaluating-performance).
+
+The system does not perform very well yet, but through our efforts we learned a lot about the sparseness of the problem we posed.
+
+###  Defining the problem
 
 Given a piece of music, what is its structure? What in it is repeated, and how is it organized? Many people in music information retrieval (MIR) would like to be able to answer this algorithmically.
 
@@ -45,7 +52,7 @@ This information is derived from a MIDI file for the same song ("While My Guitar
 
 As this example shows, the multi-part pattern description of a piece is very complex, and much harder to estimate than a one-dimensional structure analysis. So, how can we do it?
 
-### Estimating the description
+### Estimating a description
 
 Here is the basic pipeline for our algorithm:
 
@@ -68,7 +75,7 @@ To choose the best smoothing parameter and similarity threshold for each SSM, we
 <div class="project_img" style="width: 60%"><img src="{{ site.baseurl }}/projects/multi-part-pattern-analysis/fig7.png"></div>
 
 
-### Defining the ground truth
+### Generating ground truth
 
 There are no large collections of music annotated at this level of detail, labelling every measure in every instrument part. However, we can generate adequate ground truth from collections of scores.
 
@@ -83,3 +90,31 @@ We used multi-channel MIDI files from the [Lakh MIDI dataset](https://colinraffe
 > Cut-offs of 90–95% similarity led to almost zero transitivity errors.
 
 With this procedure, from any MIDI file we chose we could generate ground truth multi-part descriptions, and also synthesize stereo audio to be processed by our algorithm.
+
+### Evaluating performance
+
+<div class="project_img" style="width: 60%; float: right;"><img src="{{ site.baseurl }}/projects/multi-part-pattern-analysis/fig8.png"></div>
+
+For a given song, we compare each estimated part to each part in the ground truth, and report the score for the best permutation; this is highlighted in the figure at right. Note that since there are 7 ground truth parts (the rows) and only 6 predicted parts (the columns), our method immediately has a performance ceiling lower than 0.857 for this song (still "While My Guitar Gently Weeps"!).
+
+Each pair of parts is compared using a conventional metric: [pairwise retrieval f-measure metric](https://craffel.github.io/mir_eval/#mir_eval.segment.pairwise). The metric treats the live pixels in the binary-valued ground truth SSM as a set of (pairwise) similarity relationship to retrieve, and measures the overlap between the predicted and ground truth sets. In the figure, the live pixels are black.
+
+However, in structure analysis, the pixels on the main diagonal are all guaranteed to be live, and so we exclude them from the analysis. But in our case, the main diagonal can be 0-valued if that instrument isn't playing. So, we have to decide whether to count them or not.
+
+Below, we plot the pairwise f-measure (pwf) as well as precision (pwp) and retrieval (pwr) for the proposed algorithm and three alternative approaches. We plot them for two choices of the metric: ignoring the main diagonal (left) and counting the main diagonal (right).
+
+<div class="project_img" style="width: 60%;"><img src="{{ site.baseurl }}/projects/multi-part-pattern-analysis/fig10.png"></div>
+
+Note that all methods assume 6 parts. Our method (in blue) tries to estimate these parts independently; the other methods just make a single estimate and copy it into 6 parts.
+
+Some observations:
+
+- Comparing off-main-diagonal only (at left) is akin to evaluating "repetition detection" quality.
+- Comparing on-main-diagonal (at right) also evaluates "instrument activity detection" quality.
+- Our method (in blue) was never the top method for any metric!
+- Our method, skipping the source-separation (in green), is the best overall at detecting repetitions (at left).
+- Baseline #2 (in red) presumes no repetitions at all, so it fares the worst at detecting them (at left)...
+- ... but is the best method if we include the main diagonal (at right).
+	- In fact, since it achieves a retrieval (pwr) of almost 50%, we can see that the number of off-diagonal pixels in the ground truth is only about the number of on-diagonal pixels... i.e., the ground truth is incredibly sparse!
+
+We conclude that we ought to search for an alternative approach! Since the chroma-based repetition detection is working well already (method in green), we should focus on improving the source separation quality. We are doing blind source separation, but we ought to do something more targeted---for example: try to detect the instruments in the mixture and separate out each one in a semi-supervised way.
