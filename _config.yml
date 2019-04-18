@@ -27,7 +27,7 @@ footer-links:
   googlescholar: XsofCnQAAAAJ
   linkedin: jblsmith
   pinterest:
-  rss: a # just type anything here for a working RSS icon
+  rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -60,7 +60,7 @@ assetsurl: "/documents"
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
-version: v1.2.0
+version: v3.7.4
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
