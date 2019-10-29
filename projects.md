@@ -12,9 +12,13 @@ permalink: /projects/
   }
 </style>
 
-### Multi-dimensional views of music structure (2017)
+### Multi-dimensional views of music structure (2017–2019)
 Music structure is typically viewed as a one-dimensional phenomenon: each point in time is assigned a single label, which tells you which other points in the music are similar and which are different. However, musical structure is richer than that: different instrument parts can set up independent patterns of repetition; and different musical attributes, like melody, harmony and timbre, can be salient at different times. The following research projects explore these broader views of music structure.
 
+> ### [Unmixer: An interface for extracting loops and remixing songs (2019)]({{ site.baseurl }}/projects/unmixer/)
+> <a class="project_icon" href="{{ site.baseurl }}/projects/unmixer/"><img src="{{ site.baseurl }}/images/thumbnail_unmixer.png" /></a>
+Remix artists want to be able to access the loops and isolated sounds that were used to create a song, but might only have access to the mixed audio. The Unmixer gives them a way to access the "ingredients" of a song and experiment with mashup ideas, all in one place!
+>
 > ### [Extracting loops with nonnegative tensor factorization (2018)]({{ site.baseurl }}/projects/nonnegative-tensor-factorization/)
 > <a class="project_icon" href="{{ site.baseurl }}/projects/nonnegative-tensor-factorization/"><img src="{{ site.baseurl }}/images/thumbnail_ntf.png" /></a>
 Plenty of electronic music is based around loops. We propose a way to identify and extract the loops via source separation, and to provide a map of the piece, all in a single step using nonnegative tensor factorization.
@@ -35,7 +39,7 @@ We present a method of classifying videos found online according to what type of
 <a class="project_icon" href="https://staff.aist.go.jp/jun.kato/CrossSong/"><img src="{{ site.baseurl }}/images/thumbnail_crosssong.png" /></a>
 Combining the fun of mash-ups with the challenge of logic puzzles, we present CrossSong: a music-based puzzle game in which the goal is to recognize the component parts of mash-ups. The player sees a grid of tiles, each containing a mash-up between two songs, and  must rearrange them so that the tiles in each row and each column contain parts of the same song. The goal of the project was to make a fun game, but our research contributions include an algorithm for finding an optimal combination of mashups, and a user evaluation. Project page includes a link to the playable game!
 
-### [PhD thesis (2014)]({{ site.baseurl }}/projects/phd-thesis/)
+### [PhD thesis (2011–2014)]({{ site.baseurl }}/projects/phd-thesis/)
 <a class="project_icon" href="{{ site.baseurl }}/projects/phd-thesis/"><img src="{{ site.baseurl }}/images/thumbnail_phd.png" /></a>
 My PhD thesis considered listener disagreements in the analysis of musical structure, and looked at the issue from a number of viewpoints in different disciplines: music information retrieval, music theory and music perception and cognition. The following four projects comprised the main chapters:
 
