@@ -31,8 +31,8 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Peer-reviewed conference articles:
 
-Accepted
-: Smith, J. B. L., Y. Kawasaki, and M. Goto. 2019. Unmixer: An interface for extracting and remixing loops. Accepted for the *Proceedings of the International Society for Music Information Retrieval Conference*. Delft, NL.
+[PDF]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface.pdf), [BIB]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface.bib), [Slides]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface-slides.pdf), [Poster]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface-slides.pdf)
+: Smith, J. B. L., Y. Kawasaki, and M. Goto. 2019. Unmixer: An interface for extracting and remixing loops. Accepted for the *Proceedings of the International Society for Music Information Retrieval Conference*. 824--831. Delft, NL.
 
 [PDF]({{ site.assetsurl }}/smith2018-icassp-nonnegative_tensor_factorization.pdf), [BIB]({{ site.assetsurl }}/smith2018-icassp-nonnegative_tensor_factorization.bib)
 : Smith, J. B. L., and M. Goto. 2018. Nonnegative tensor factorization for source separation of loops in audio. In the *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. Calgary, AB, Canada. 171--5.
