@@ -32,11 +32,11 @@ Casual users can take advantage of the "Quick Start" option that loads up some d
 
 Expert users may want more controls like equalizers, but we felt that anyone wanting to produce a remix or mashup would rather download them and treat them offline in their favourite DAW anyway.
 
-That said, we're exploring ways to give users more control, including different-size loops, keyboard controls, and some basic equalization---stay tuned! (If you have any suggestions, feel free to [email us](unmixer-ml@aist.go.jp).)
+That said, we're exploring ways to give users more control, including different-size loops, keyboard controls, and some basic equalization---stay tuned! (If you have any suggestions, feel free to [email us](mailto:unmixer-ml@aist.go.jp).)
 
 ### How it works
 
-It's a 4-step process, but about 90% of the magic happens in step 3. Throughout, we use the Daft [Punk song "Doin' it Right" featuring Panda Bear](https://www.youtube.com/watch?v=LL-gyhZVvx0) as our test song.
+It's a 4-step process, but about 90% of the magic happens in step 3. Throughout, we use the Daft [Punk song "Doin' it Right" (featuring Panda Bear)](https://www.youtube.com/watch?v=LL-gyhZVvx0) as our test song.
 
 > NB: I don't own the copyright to this song! I am including very short audio excerpts here for educational purposes only.
 
@@ -52,15 +52,17 @@ We snip the spectrogram at each downbeat boundary (the dotted lines), and then s
 
 <img src="step_2_b.png" style="width:80%; display:block; margin: 0 auto">
 
+By the way, we use [librosa](https://librosa.github.io/) for handling the audio.
+
 **Step 3: compute the non-negative Tucker decomposition.** This is the magic part!
 
 A typical technique to compress the information in a matrix or tensor is called [factorization](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization). In the case of a 2D matrix, this amounts to finding a small set of "template" columns that you can copy/paste out to recreate the matrix.
 
-The non-negative Tucker decomposition (NTD) models our 3D tensor (freq x time x bar) as 3 matrices---sound templates, rhythm templates, and loop templates---and a *core tensor* that tells us how to multiply these templates together.
+The non-negative Tucker decomposition (NTD) models our 3D tensor (freq. x time x bar) as 3 matrices---sound templates, rhythm templates, and loop templates---and a *core tensor* that tells us how to multiply these templates together.
 
 <img src="step_3.png" style="width:80%; display:block; margin: 0 auto">
 
-This is the slowest part of the algorithm, so we're investigating ways to speed it up. But the compression can be very efficient: in this case, our model is around 1/100th the size of the original spectral cube.
+This is the slowest part of the algorithm, so we're investigating ways to speed it up. But the compression can be very efficient: in this case, our model is around 1/100th the size of the original spectral cube. We compute the NTD with [TensorLy](http://tensorly.org/stable/index.html).
 
 **Step 4: extract the loops.** This is done by multiplying out the NTD one loop at a time. To see how this works, consider loop template #13, represented by the 13th slice of the core tensor:
 
