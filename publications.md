@@ -31,8 +31,8 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Peer-reviewed conference articles:
 
-[PDF]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface.pdf), [BIB]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface.bib), [Slides]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface-slides.pdf), [Poster]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface-slides.pdf)
-: Smith, J. B. L., Y. Kawasaki, and M. Goto. 2019. Unmixer: An interface for extracting and remixing loops. Accepted for the *Proceedings of the International Society for Music Information Retrieval Conference*. 824--831. Delft, NL.
+[PDF]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface.pdf), [BIB]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface.bib), [Slides]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface-slides.pdf), [Poster]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface-slides.pdf), [Website](https://unmixer.ongaaccel.jp/)
+: Smith, J. B. L., Y. Kawasaki, and M. Goto. 2019. Unmixer: An interface for extracting and remixing loops. In *Proceedings of the International Society for Music Information Retrieval Conference*. 824--831. Delft, NL.
 
 [PDF]({{ site.assetsurl }}/smith2018-icassp-nonnegative_tensor_factorization.pdf), [BIB]({{ site.assetsurl }}/smith2018-icassp-nonnegative_tensor_factorization.bib)
 : Smith, J. B. L., and M. Goto. 2018. Nonnegative tensor factorization for source separation of loops in audio. In the *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. Calgary, AB, Canada. 171--5.
@@ -83,6 +83,9 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 :	Li, B., J. B. L. Smith and I. Fujinaga. 2009. Optical audio reconstruction for stereo phonograph records using white light interferometry. *Proceedings of the International Society for Music Information Retrieval Conference*. Kobe, Japan. 627--32.
 
 ### Peer-reviewed conference presentations on the basis of an abstract:
+
+[Abstract]({{ site.assetsurl }}/smith2019-dmrn-unmixer_interface-abstract.pdf), [Slides]({{ site.assetsurl }}/smith2019-dmrn-unmixer_interface-slides.pdf), [Website](https://unmixer.ongaaccel.jp/)
+: Smith, J. B. L., Y. Kawasaki, and M. Goto. 2019. Unmixer: An interface for extracting and remixing loops. Oral presentation at Digital Music Research Network One-day Workshop, London, UK.
 
 [Slides]({{ site.assetsurl }}/smith2016-cogmir-validating_technique-slides.pdf)
 :	Smith, J. B. L., and E. Chew. 12 August 2016. "Validating a technique for post-hoc estimation of a listener's focus in music structure analysis." Oral presentation at [CogMIR](http://www.cogmir.org/) (Cognitively Based Music Informatics Research), satellite event of the International Society for Music Information Retrieval Conference, New York, NY.
