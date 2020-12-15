@@ -2,3 +2,4 @@
 _site/*
 .sass-cache/*
 rough_work/*
+.jekyll-cache/*

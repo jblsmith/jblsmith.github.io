@@ -20,14 +20,17 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Journal articles:
 
-[Open Access text](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519), [BIB]({{ site.assetsurl }}/smith2017-jnmr-the_crosssong_puzzle.bib)
-:	Smith, J. B. L., J. Kato, S. Fukayama, G. Percival, and M. Goto. 2017. The CrossSong Puzzle: Developing a logic puzzle for musical thinking. *Journal of New Music Research* 46: 3. 213--28. [Published Open Access.](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519)
+[Online](https://transactions.ismir.net/articles/10.5334/tismir.54/), [PDF]({{ site.assetsurl }}/nieto2020-tsimir-audio_based.pdf), [BIB]({{ site.assetsurl }}/nieto2020-tsimir-audio_based.bib)
+:   Nieto, O., G. J. Mysore, C.-i. Wang,  J. B. L. Smith, J. Schlüter, T. Grill, and B. McFee. 2020. Audio-Based Music Structure Analysis: Current Trends, Open Challenges, and Applications. *Transactions of the International Society for Music Information Retrieval* 3:1, 246-–63.
 
-[Online text](http://www.mtosmt.org/issues/mto.14.20.3/mto.14.20.3.smith_schankler_chew.php), [BIB]({{ site.assetsurl }}/smith2014-mto-listening_as_a_creative_act.bib), [Details]({{ site.baseurl }}/projects/listener-disagreements/)
-:	Smith, J. B. L., I. Schankler, and E. Chew. 2014. Listening as a creative act: Meaningful differences in structural annotations of improvised performances. *Music Theory Online*. 20: 3.
+[Online](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519), [BIB]({{ site.assetsurl }}/smith2017-jnmr-the_crosssong_puzzle.bib)
+:	Smith, J. B. L., J. Kato, S. Fukayama, G. Percival, and M. Goto. 2017. The CrossSong Puzzle: Developing a logic puzzle for musical thinking. *Journal of New Music Research* 46:3. 213--28. [Published Open Access.](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519)
+
+[Online](http://www.mtosmt.org/issues/mto.14.20.3/mto.14.20.3.smith_schankler_chew.php), [BIB]({{ site.assetsurl }}/smith2014-mto-listening_as_a_creative_act.bib), [Details]({{ site.baseurl }}/projects/listener-disagreements/)
+:	Smith, J. B. L., I. Schankler, and E. Chew. 2014. Listening as a creative act: Meaningful differences in structural annotations of improvised performances. *Music Theory Online*. 20:3.
 
 [PDF (pre-print)]({{ site.assetsurl }}/smith2014-ieee-audio_properties.pdf), [BIB]({{ site.assetsurl }}/smith2014-ieee-audio_properties.bib), [Details]({{ site.baseurl }}/projects/boundaries-novelty/)
-:	Smith, J. B. L., C.-H. Chuan, and E. Chew. 2014 (submitted in 2012). Audio properties of perceived boundaries in music. *IEEE Transactions on Multimedia* 16: 5. 1219--28. Published version available at [IEEE Xplore](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6762890).
+:	Smith, J. B. L., C.-H. Chuan, and E. Chew. 2014 (submitted in 2012). Audio properties of perceived boundaries in music. *IEEE Transactions on Multimedia* 16:5. 1219--28. Published version available at [IEEE Xplore](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6762890).
 
 ### Peer-reviewed conference articles:
 
