@@ -5,6 +5,8 @@ title: Kurodoko solver
 
 I wrote a [**Kurodoko solving program**](https://github.com/jblsmith/kurodoko)! I'm rather pleased with it. Kurodoko is a puzzle genre invented by [Nikoli](https://www.nikoli.co.jp/en/puzzles/).
 
+### Development
+
 I have twice attempted to write code to solve Slitherlink puzzles---my favourite Nikoli puzzle type---but never gotten far. This time, I had two advantages:
 
 1. Kurodoko is a much simpler puzzle type than Slitherlink. In Slitherlink, you have to worry about cells *and* edges; in Kurodoko, we only need to think about cells, so the code feels simpler. Also, the 'basic starting deductions' in Slitherlink feel more complex than in Kurodoko.
@@ -15,7 +17,16 @@ With these advantages and a fresh dose of enthusiasm (the result of cracking ope
 
 The code can be viewed on the Github page: [Kurodoko Solver](https://github.com/jblsmith/kurodoko).
 
-A few TODOs:
+### Why do this?
+
+Two main reasons:
+
+- It seemed fun! 🤗
+- An automatic solver is a useful aid to constructing puzzles, since it allows one to check whether a grid is solvable, unconstrained or infeasible. This is why, when writing the solver, I wanted to restrict to a set of logical deductions (and shallow search depth) that I knew human solvers were capable of.
+
+### What's next?
+
+I have a few TODOs:
 
 - Print grid images to PDF
 - Test it out on a larger set of puzzles
