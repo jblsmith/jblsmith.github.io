@@ -34,20 +34,29 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Peer-reviewed conference articles:
 
+[PDF]({{ site.assetsurl }}/wang2021-ismir-supervised_metric_learning.pdf), [BIB]({{ site.assetsurl }}/wang2021-ismir-supervised_metric_learning.bib)
+: Wang, J.-C, J. B. L. Smith, W.-T. Lu, and X. Song. 2021. Supervised metric learning for music structure features. In *Proceedings of the International Society for Music Information Retrieval Conference*. 730--37.
+
+[PDF](https://arxiv.org/pdf/2103.14253.pdf), [BIB]({{ site.assetsurl }}/wang2021-icassp-supervised_chorus_detection.bib)
+: Wang, J.-C, J. B. L. Smith, J. Chen, X. Song, and Y. Wang. 2021. Supervised chorus detection for popular music using convolutional neural network and multi-task learning. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. 566--70.
+
+[PDF](https://arxiv.org/pdf/2103.14208), [BIB]({{ site.assetsurl }}/huang2021-aaai-modeling_compatibility_stem.bib)
+: Huang, J., J.-C Wang, J. B. L. Smith, X. Song, and Y. Wang. 2021. Modeling the compatibility of stem tracks to generate music mashups. In *Proceedings of the AAAI Conference on Artificial Intelligence*. 187--95.
+
 [PDF]({{ site.assetsurl }}/chen2020-ismir-neural_loop_combiner.pdf), [BIB]({{ site.assetsurl }}/chen2020-ismir-neural_loop_combiner.bib), [Video](https://youtu.be/Id-vpCEJeS8)
-: Chen, B.-Y., J. B. L. Smith, and Y.-H. Yang. 2020. Neural Loop Combiner: Neural Network Models for Assessing the Compatibility of Loops. In *Proceedings of the International Society for Music Information Retrieval Conference*. 424--31. Montreal, QC, Canada.
+: Chen, B.-Y., J. B. L. Smith, and Y.-H. Yang. 2020. Neural Loop Combiner: Neural network models for assessing the compatibility of loops. In *Proceedings of the International Society for Music Information Retrieval Conference*. 424--31. Montreal, QC, Canada.
 
 [PDF]({{ site.assetsurl }}/ramires2020-ismir-freesound_loop_dataset.pdf), [BIB]({{ site.assetsurl }}/ramires2020-ismir-freesound_loop_dataset.bib), [Video](https://youtu.be/iGj9RF21qGk)
-: Ramires, A., F. Font, D. Bogdanov, J. B. L. Smith, Y.-H. Yang, J. Ching, B.-Y. Chen, Y.-K. Wu, H. Wei-Han, and X. Serra. 2020. The Freesound Loop Dataset and Annotation Tool. In *Proceedings of the International Society for Music Information Retrieval Conference*. 287--94. Montreal, QC, Canada.
+: Ramires, A., F. Font, D. Bogdanov, J. B. L. Smith, Y.-H. Yang, J. Ching, B.-Y. Chen, Y.-K. Wu, H. Wei-Han, and X. Serra. 2020. The Freesound Loop Dataset and annotation tool. In *Proceedings of the International Society for Music Information Retrieval Conference*. 287--94. Montreal, QC, Canada.
 
 [PDF]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface.pdf), [BIB]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface.bib), [Slides]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface-slides.pdf), [Poster]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface-slides.pdf), [Website](https://unmixer.ongaaccel.jp/)
 : Smith, J. B. L., Y. Kawasaki, and M. Goto. 2019. Unmixer: An interface for extracting and remixing loops. In *Proceedings of the International Society for Music Information Retrieval Conference*. 824--31. Delft, Netherlands.
 
 [PDF]({{ site.assetsurl }}/smith2018-icassp-nonnegative_tensor_factorization.pdf), [BIB]({{ site.assetsurl }}/smith2018-icassp-nonnegative_tensor_factorization.bib)
-: Smith, J. B. L., and M. Goto. 2018. Nonnegative tensor factorization for source separation of loops in audio. In the *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. Calgary, AB, Canada. 171--5.
+: Smith, J. B. L., and M. Goto. 2018. Nonnegative tensor factorization for source separation of loops in audio. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. Calgary, AB, Canada. 171--5.
 
 [PDF]({{ site.assetsurl }}/cheng2018-icassp-music_structure_boundary.pdf), [BIB]({{ site.assetsurl }}/cheng2018-icassp-music_structure_boundary.bib)
-: Cheng, T., J. B. L. Smith, and M. Goto. 2018. Music structure boundary detection and labelling by a deconvolution of path-enhanced self-similarity matrix. In the *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. Calgary, AB, Canada. 106--10.
+: Cheng, T., J. B. L. Smith, and M. Goto. 2018. Music structure boundary detection and labelling by a deconvolution of path-enhanced self-similarity matrix. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing*. Calgary, AB, Canada. 106--10.
 
 [PDF]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music.pdf), [BIB]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music.bib), [Poster]({{ site.assetsurl }}/smith2017-ismir-automatic_interpretation_of_music-poster.pdf)
 : Smith, J. B. L., and E. Chew. 2017. Automatic interpretation of music structure analyses: A validated technique for post-hoc estimation of the rationale for an annotation. *Proceedings of the International Society for Music Information Retrieval Conference*. Suzhou, China. 435--41.
