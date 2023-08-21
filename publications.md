@@ -34,11 +34,14 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Peer-reviewed conference articles:
 
+[PDF]({{ site.assetsurl }}/zhang2022-ismir-modeling_rhythm_lyrics.pdf), [BIB]({{ site.assetsurl }}/zhang2022-ismir-modeling_rhythm_lyrics.bib)
+: Zhang, D., J.-C. Wang, K. Kosta, J. B. L. Smith, and S. Zhou. 2022. Modeling the rhythm from lyrics for melody generation of pop songs. In *Proceedings of the International Society for Music Information Retrieval Conference (ISMIR)*. 141--8.
+
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747252), [BIB]({{ site.assetsurl }}/wang2022-icassp-catch_chorus_verse.bib)
 : Wang, J.-C, Y.-N. Hung, and J. B. L. Smith. 2022. To catch a chorus, verse, intro, or anything else: Analyzing a song with structural functions. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 416--20.
 
 [PDF]({{ site.assetsurl }}/wang2021-ismir-supervised_metric_learning.pdf), [BIB]({{ site.assetsurl }}/wang2021-ismir-supervised_metric_learning.bib)
-: Wang, J.-C, J. B. L. Smith, W.-T. Lu, and X. Song. 2021. Supervised metric learning for music structure features. In *Proceedings of the International Society for Music Information Retrieval Conference (ISMIR)*. 730--37.
+: Wang, J.-C, J. B. L. Smith, W.-T. Lu, and X. Song. 2021. Supervised metric learning for music structure features. In *Proceedings of ISMIR*. 730--37.
 
 [PDF](https://arxiv.org/pdf/2103.14253.pdf), [BIB]({{ site.assetsurl }}/wang2021-icassp-supervised_chorus_detection.bib)
 : Wang, J.-C, J. B. L. Smith, J. Chen, X. Song, and Y. Wang. 2021. Supervised chorus detection for popular music using convolutional neural network and multi-task learning. In *Proceedings of ICASSP*. 566--70.
@@ -105,6 +108,9 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Peer-reviewed conference presentations on the basis of an abstract:
 
+[PDF]({{ site.assetsurl }}/wang2022-ismir-musfa_improving_music.pdf), [BIB]({{ site.assetsurl }}/wang2022-ismir-musfa_improving_music.bib)
+: Wang, J.-C., J. B. L. Smith and Y.-N. 2022. "MuSFA: Improving music structural function analysis with partially labeled data." Poster presentation at Late-breaking and Demo Session at ISMIR, Bengaluru, India.
+
 [Abstract]({{ site.assetsurl }}/smith2019-dmrn-unmixer_interface-abstract.pdf), [Slides]({{ site.assetsurl }}/smith2019-dmrn-unmixer_interface-slides.pdf), [Website](https://unmixer.ongaaccel.jp/)
 : Smith, J. B. L., Y. Kawasaki, and M. Goto. 2019. Unmixer: An interface for extracting and remixing loops. Oral presentation at Digital Music Research Network One-day Workshop (DMRN), London, UK.
 
@@ -150,6 +156,15 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 :	Smith, Jordan B. L. March 2006. Testing Zipf's Law: The Mathematics and Aesthetics of Performance. Bachelor's thesis, Harvard College, Cambridge, MA.
 
 ### Other writings and presentations:
+
+[Link](https://ismir2021.ismir.net/blog/diversity_inclusion/)
+:	Kaneshiro, B., J. B. L. Smith, J. H. Lee, and A. Lerch. 5 September 2021. "Diversity & Inclusion Initiatives at ISMIR2021." Blog post for the ISMIR 2021 Diversity and Inclusion (D&I) team.
+
+[Part 1](https://ismir2021.ismir.net/blog/insights/), [Part 2](https://ismir2021.ismir.net/blog/insights2/)
+:	Kaneshiro, B., and J. B. L. Smith. 14–16 June 2021. "Insights on the ISMIR Reviewing Experience." Two-part blog post for the ISMIR 2021 D&I team.
+
+[Link](https://ismir2021.ismir.net/blog/preparing/)
+:	Kaneshiro, B., Z. Duan, J. Nam, P. Rao, P. van Krananburg, J. B. L. Smith. 18 April 2021. "Preparing a Successful ISMIR Submission." Blog post for the ISMIR 2021 D&I team.
 
 [Video](https://www.youtube.com/watch?v=zH7qw3tEydM)
 :	Smith, J. B. L. 12 June 2018. "Multi-dimensional views of music structure." Talk at the European Music Research Conference, at Universitat Pompeu Fabra, Barcelona, Spain.
