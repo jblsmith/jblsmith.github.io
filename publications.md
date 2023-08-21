@@ -108,6 +108,9 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Peer-reviewed conference presentations on the basis of an abstract:
 
+[PDF]({{ site.assetsurl }}/wang2022-ismir-musfa_improving_music.pdf), [BIB]({{ site.assetsurl }}/wang2022-ismir-musfa_improving_music.bib)
+: Wang, J.-C., J. B. L. Smith and Y.-N. 2022. "MuSFA: Improving music structural function analysis with partially labeled data." Poster presentation at Late-breaking and Demo Session at ISMIR, Bengaluru, India.
+
 [Abstract]({{ site.assetsurl }}/smith2019-dmrn-unmixer_interface-abstract.pdf), [Slides]({{ site.assetsurl }}/smith2019-dmrn-unmixer_interface-slides.pdf), [Website](https://unmixer.ongaaccel.jp/)
 : Smith, J. B. L., Y. Kawasaki, and M. Goto. 2019. Unmixer: An interface for extracting and remixing loops. Oral presentation at Digital Music Research Network One-day Workshop (DMRN), London, UK.
 
