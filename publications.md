@@ -157,6 +157,15 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Other writings and presentations:
 
+[Link](https://ismir2021.ismir.net/blog/diversity_inclusion/)
+:	Kaneshiro, B., J. B. L. Smith, J. H. Lee, and A. Lerch. 5 September 2021. "Diversity & Inclusion Initiatives at ISMIR2021." Blog post for the ISMIR 2021 Diversity and Inclusion (D&I) team.
+
+[Part 1](https://ismir2021.ismir.net/blog/insights/), [Part 2](https://ismir2021.ismir.net/blog/insights2/)
+:	Kaneshiro, B., and J. B. L. Smith. 14–16 June 2021. "Insights on the ISMIR Reviewing Experience." Two-part blog post for the ISMIR 2021 D&I team.
+
+[Link](https://ismir2021.ismir.net/blog/preparing/)
+:	Kaneshiro, B., Z. Duan, J. Nam, P. Rao, P. van Krananburg, J. B. L. Smith. 18 April 2021. "Preparing a Successful ISMIR Submission." Blog post for the ISMIR 2021 D&I team.
+
 [Video](https://www.youtube.com/watch?v=zH7qw3tEydM)
 :	Smith, J. B. L. 12 June 2018. "Multi-dimensional views of music structure." Talk at the European Music Research Conference, at Universitat Pompeu Fabra, Barcelona, Spain.
 
