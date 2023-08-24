@@ -38,13 +38,13 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 : Zhang, D., J.-C. Wang, K. Kosta, J. B. L. Smith, and S. Zhou. 2022. Modeling the rhythm from lyrics for melody generation of pop songs. In *Proceedings of the International Society for Music Information Retrieval Conference (ISMIR)*. 141--8.
 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747252), [BIB]({{ site.assetsurl }}/wang2022-icassp-catch_chorus_verse.bib)
-: Wang, J.-C, Y.-N. Hung, and J. B. L. Smith. 2022. To catch a chorus, verse, intro, or anything else: Analyzing a song with structural functions. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 416--20.
+: Wang, J.-C., Y.-N. Hung, and J. B. L. Smith. 2022. To catch a chorus, verse, intro, or anything else: Analyzing a song with structural functions. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 416--20.
 
 [PDF]({{ site.assetsurl }}/wang2021-ismir-supervised_metric_learning.pdf), [BIB]({{ site.assetsurl }}/wang2021-ismir-supervised_metric_learning.bib)
-: Wang, J.-C, J. B. L. Smith, W.-T. Lu, and X. Song. 2021. Supervised metric learning for music structure features. In *Proceedings of ISMIR*. 730--37.
+: Wang, J.-C., J. B. L. Smith, W.-T. Lu, and X. Song. 2021. Supervised metric learning for music structure features. In *Proceedings of ISMIR*. 730--37.
 
 [PDF](https://arxiv.org/pdf/2103.14253.pdf), [BIB]({{ site.assetsurl }}/wang2021-icassp-supervised_chorus_detection.bib)
-: Wang, J.-C, J. B. L. Smith, J. Chen, X. Song, and Y. Wang. 2021. Supervised chorus detection for popular music using convolutional neural network and multi-task learning. In *Proceedings of ICASSP*. 566--70.
+: Wang, J.-C., J. B. L. Smith, J. Chen, X. Song, and Y. Wang. 2021. Supervised chorus detection for popular music using convolutional neural network and multi-task learning. In *Proceedings of ICASSP*. 566--70.
 
 [PDF](https://arxiv.org/pdf/2103.14208), [BIB]({{ site.assetsurl }}/huang2021-aaai-modeling_compatibility_stem.bib)
 : Huang, J., J.-C Wang, J. B. L. Smith, X. Song, and Y. Wang. 2021. Modeling the compatibility of stem tracks to generate music mashups. In *Proceedings of the AAAI Conference on Artificial Intelligence*. 187--95.

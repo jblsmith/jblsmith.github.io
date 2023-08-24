@@ -14,7 +14,7 @@ I also like trying to make it possible for computers to solve problems of music 
 
 I joined [TikTok](https://www.tiktok.com/) in January 2020 as a Research Scientist.
 
-Previously, I was a post-doctoral researcher scientist for 3 years at [AIST Japan](https://staff.aist.go.jp/m.goto/MIG/index-j.html), and Ive had shorter post-docs at [IRCAM](https://www.ircam.fr/) in Paris and [Queen Mary University of London](https://www.qmul.ac.uk/).
+Previously, I was a post-doctoral researcher scientist for 3 years at [AIST Japan](https://staff.aist.go.jp/m.goto/MIG/index-j.html), and I've had shorter post-docs at [IRCAM](https://www.ircam.fr/) in Paris and [Queen Mary University of London](https://www.qmul.ac.uk/).
 
 ## Research interests
 
