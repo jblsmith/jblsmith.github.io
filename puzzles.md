@@ -6,6 +6,9 @@ permalink: /puzzles/
 
 I enjoy puzzles of all kinds, especially cryptic crosswords. I participate regularly in puzzle hunts: these are puzzle-solving contests in which groups race to complete a variety of puzzles, which are usually bereft of instructions, or which require solvers to make intuitive leaps in judgement. Beginning in 2012, I have helped to run several of them.
 
+[Harper's Puzzle (2022)](https://harpers.org/archive/2022/10/gentlemens-agreement/)
+:	I wrote a puzzle for my wedding, shared it with the setter of *Harper's Magazine*'s cryptic, and it was published in the October 2022 issue. It's a long story; [this blog post]({{ site.baseurl }}/Harpers-cryptic) explains part of it; [this site](https://pig-and-bunny.github.io/proposal/) explains the prelude!
+
 [GABCOP (2014)](http://bit.ly/girls-and-boys-game)
 :	I helped write and run "Girls and Boys Come Out To Play", a London-based puzzle hunt that included lots of physical challenges and prop-based puzzles. Lots of fun.
 
