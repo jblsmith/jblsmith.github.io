@@ -132,6 +132,9 @@ Oct. 11--15, 2020
 :	**Satellite Events co-chair** with Finn Upham for ISMIR 2020.
 <br>Co-ordinated the Hacking Audio and Music Research Hackathon [HAMR 2020](https://www.ismir2020.net/hamr/)
 
+Dec. 17, 2019
+:	DMRN+14: Digital Music Research Network One-day Workshop. London, UK.
+
 Feb. 13--15, 2015
 :	**Publication chair** for [Mathemusical Conversations: Mathematics and Computation in Music Performance and Composition](https://imsarchives.nus.edu.sg/oldwww/Programs/015wmusic/index.html)
 
