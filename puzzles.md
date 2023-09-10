@@ -4,7 +4,7 @@ title: Puzzles
 permalink: /puzzles/
 ---
 
-I enjoy puzzles of all kinds, especially cryptic crosswords. I participate regularly in puzzle hunts, in which groups race to complete a variety of puzzles that are usually bereft of instructions, or which require solvers to make intuitive leaps in judgement. I have helped to run a few of them.
+I enjoy puzzles of all kinds, especially cryptic crosswords. I participate regularly in puzzle hunts, in which groups race to complete a variety of puzzles that are usually bereft of instructions, or which require solvers to make intuitive leaps in judgement. I have helped to run a few of them, too.
 
 [Harper's Puzzle (2022)](https://harpers.org/archive/2022/10/gentlemens-agreement/)
 :	I wrote a puzzle for my wedding, shared it with the setter of *Harper's Magazine*'s cryptic, and it was published in the October 2022 issue. It's a long story; [this blog post]({{ site.baseurl }}/Harpers-cryptic) explains part of it; [this site](https://pig-and-bunny.github.io/proposal/) explains the prelude!
