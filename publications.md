@@ -37,7 +37,7 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 [PDF]({{ site.assetsurl }}/zhang2022-ismir-modeling_rhythm_lyrics.pdf), [BIB]({{ site.assetsurl }}/zhang2022-ismir-modeling_rhythm_lyrics.bib)
 : Zhang, D., J.-C. Wang, K. Kosta, J. B. L. Smith, and S. Zhou. 2022. Modeling the rhythm from lyrics for melody generation of pop songs. In *Proceedings of the International Society for Music Information Retrieval Conference (ISMIR)*. 141--8.
 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747252), [BIB]({{ site.assetsurl }}/wang2022-icassp-catch_chorus_verse.bib)
+[IEEE site](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747252), [PDF pre-print]({{ site.assetsurl }}/wang2022-icassp-catch_chorus_verse.pdf), [BIB]({{ site.assetsurl }}/wang2022-icassp-catch_chorus_verse.bib)
 : Wang, J.-C., Y.-N. Hung, and J. B. L. Smith. 2022. To catch a chorus, verse, intro, or anything else: Analyzing a song with structural functions. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 416--20.
 
 [PDF]({{ site.assetsurl }}/wang2021-ismir-supervised_metric_learning.pdf), [BIB]({{ site.assetsurl }}/wang2021-ismir-supervised_metric_learning.bib)
