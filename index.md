@@ -12,17 +12,19 @@ I also like trying to make it possible for computers to solve problems of music 
 
 ## Where I work
 
-I joined [TikTok](https://www.tiktok.com/) in January 2020 as a Research Scientist.
+Most recently, I worked for [TikTok](https://www.tiktok.com/) from January 2020 to October 2023 as a Research Scientist. I was on a team devoted to creating novel algorithms and interfaces for music creation.
 
 Previously, I was a post-doctoral researcher scientist for 3 years at [AIST Japan](https://staff.aist.go.jp/m.goto/MIG/index-j.html), and I've had shorter post-docs at [IRCAM](https://www.ircam.fr/) in Paris and [Queen Mary University of London](https://www.qmul.ac.uk/).
 
 ## Research interests
 
-Music structure! I've been obsessed with understanding the internal structure of pieces of music from the start of my academic career.
+Music structure! I find the way that listeners form an understanding of the internal structure of a piece of music to be fascinating, and I've been trying to understand it better from the start of my academic career. Some find this problem very abstract, but I think this is a sign of its deep connection to other topics, like pattern recognition and the perception of Gestalts.
 
-I'm also interested in:
+I am also interested in:
 
-- Loop-based music and source separation
-- Perception of musical structure
+- Music decomposition (e.g., into source loops)
+- Tools for music composition (I refuse to call such tools "AI" — whatever steps they automate, they should be regarded as tools!)
+- Music interfaces
+- Experiment design
 
 For non-work interests, check out the [Puzzles tab]({{ site.baseurl }}/puzzles/), the [Tumblr blog](http://jblsmith.tumblr.com/), or the [Wordpress blog](https://jblsmith.wordpress.com/).
