@@ -20,7 +20,7 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Journal articles:
 
-[Online](https://transactions.ismir.net/articles/10.5334/tismir.54/), [PDF]({{ site.assetsurl }}/nieto2020-tsimir-audio_based.pdf), [BIB]({{ site.assetsurl }}/nieto2020-tsimir-audio_based.bib)
+[Online](https://transactions.ismir.net/articles/10.5334/tismir.54/), [PDF]({{ site.assetsurl }}/nieto2020-tismir-audio_based.pdf), [BIB]({{ site.assetsurl }}/nieto2020-tismir-audio_based.bib)
 :   Nieto, O., G. J. Mysore, C.-i. Wang,  J. B. L. Smith, J. Schlüter, T. Grill, and B. McFee. 2020. Audio-Based Music Structure Analysis: Current Trends, Open Challenges, and Applications. *Transactions of the International Society for Music Information Retrieval* 3:1, 246-–63.
 
 [Online](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1303519), [PDF]({{ site.assetsurl }}/smith2017-jnmr-the_crosssong_puzzle.pdf), [BIB]({{ site.assetsurl }}/smith2017-jnmr-the_crosssong_puzzle.bib)
