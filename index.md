@@ -12,9 +12,11 @@ I also like trying to make it possible for computers to solve problems of music 
 
 ## Where I work
 
-Most recently, I worked for [TikTok](https://www.tiktok.com/) from January 2020 to October 2023 as a Research Scientist. I was on a team devoted to creating novel algorithms and interfaces for music creation.
+I am a Lecturer in Audio Signal Processing at [Queen Mary University of London](https://www.qmul.ac.uk/). I am based in London, but I teach within Queen Mary School Hainan, which means I make four 2-week trips to China per year to give lectures. In Fall 2024, I am developing and delivering a new module on *Introduction to Digital Audio*.
 
-Previously, I was a post-doctoral researcher scientist for 3 years at [AIST Japan](https://staff.aist.go.jp/m.goto/MIG/index-j.html), and I've had shorter post-docs at [IRCAM](https://www.ircam.fr/) in Paris and [Queen Mary University of London](https://www.qmul.ac.uk/).
+Previously, I worked for [TikTok](https://www.tiktok.com/) from January 2020 to October 2023 as a Research Scientist. I was on a team devoted to creating novel algorithms and interfaces for music creation.
+
+Previously, I was a post-doctoral research scientist for three years at [AIST Japan](https://staff.aist.go.jp/m.goto/MIG/index-j.html) in Tsukuba and for one year at [IRCAM](https://www.ircam.fr/) in Paris.
 
 ## Research interests
 
