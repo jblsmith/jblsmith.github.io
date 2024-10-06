@@ -30,12 +30,15 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 :	Smith, J. B. L., I. Schankler, and E. Chew. 2014. Listening as a creative act: Meaningful differences in structural annotations of improvised performances. *Music Theory Online*. 20:3.
 
 [PDF (pre-print)]({{ site.assetsurl }}/smith2014-ieee-audio_properties.pdf), [BIB]({{ site.assetsurl }}/smith2014-ieee-audio_properties.bib), [Details]({{ site.baseurl }}/projects/boundaries-novelty/)
-:	Smith, J. B. L., C.-H. Chuan, and E. Chew. 2014 (submitted in 2012). Audio properties of perceived boundaries in music. *IEEE Transactions on Multimedia* 16:5. 1219--28. Published version available at [IEEE Xplore](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6762890).
+:	Smith, J. B. L., C.-H. Chuan, and E. Chew. 2014. Audio properties of perceived boundaries in music. *IEEE Transactions on Multimedia* 16:5. 1219--28. Published version available at [IEEE Xplore](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6762890).
 
 ### Peer-reviewed conference articles:
 
+[PDF]({{ site.assetsurl }}/chen2024-ismir-sympac_scalable_symbolic.pdf), [BIB]({{ site.assetsurl }}/chen2024-ismir-sympac_scalable_symbolic.bib)
+: Chen, H., J. B. L. Smith, B. Li, J.-C. Wang, J. Spijkervet, P. Zou, X. Du, and Q. Kong. 2024. SymPAC: Scalable symbolic music generation with prompts and constraints. To appear in *Proceedings of the International Society for Music Information Retrieval Conference (ISMIR)*.
+
 [PDF]({{ site.assetsurl }}/zhang2022-ismir-modeling_rhythm_lyrics.pdf), [BIB]({{ site.assetsurl }}/zhang2022-ismir-modeling_rhythm_lyrics.bib)
-: Zhang, D., J.-C. Wang, K. Kosta, J. B. L. Smith, and S. Zhou. 2022. Modeling the rhythm from lyrics for melody generation of pop songs. In *Proceedings of the International Society for Music Information Retrieval Conference (ISMIR)*. 141--8.
+: Zhang, D., J.-C. Wang, K. Kosta, J. B. L. Smith, and S. Zhou. 2022. Modeling the rhythm from lyrics for melody generation of pop songs. In *Proceedings ISMIR*. 141--8.
 
 [IEEE site](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747252), [PDF pre-print]({{ site.assetsurl }}/wang2022-icassp-catch_chorus_verse.pdf), [BIB]({{ site.assetsurl }}/wang2022-icassp-catch_chorus_verse.bib)
 : Wang, J.-C., Y.-N. Hung, and J. B. L. Smith. 2022. To catch a chorus, verse, intro, or anything else: Analyzing a song with structural functions. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 416--20.
