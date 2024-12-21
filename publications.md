@@ -111,11 +111,14 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Peer-reviewed conference presentations on the basis of an abstract:
 
+[Abstract]({{ site.assetsurl }}/esquivel2024-dmrn-predict_hypermetre.pdf), [Poster]({{ site.assetsurl }}/esquivel2024-dmrn-predict_hypermetre-poster.pdf)
+: Esquivel de Jesus, J. A., and J. B. L. Smith. 2024. "Can downbeat trackers predict hypermetre?" Poster presentation at Digital Music Research Network One-day Workshop (DMRN), London, UK.
+
 [PDF]({{ site.assetsurl }}/wang2022-ismir-musfa_improving_music.pdf), [BIB]({{ site.assetsurl }}/wang2022-ismir-musfa_improving_music.bib)
 : Wang, J.-C., J. B. L. Smith and Y.-N. 2022. "MuSFA: Improving music structural function analysis with partially labeled data." Poster presentation at Late-breaking and Demo Session at ISMIR, Bengaluru, India.
 
 [Abstract]({{ site.assetsurl }}/smith2019-dmrn-unmixer_interface-abstract.pdf), [Slides]({{ site.assetsurl }}/smith2019-dmrn-unmixer_interface-slides.pdf), [Website](https://unmixer.ongaaccel.jp/)
-: Smith, J. B. L., Y. Kawasaki, and M. Goto. 2019. Unmixer: An interface for extracting and remixing loops. Oral presentation at Digital Music Research Network One-day Workshop (DMRN), London, UK.
+: Smith, J. B. L., Y. Kawasaki, and M. Goto. 2019. Unmixer: An interface for extracting and remixing loops. Oral presentation at DMRN, London, UK.
 
 [Slides]({{ site.assetsurl }}/smith2016-cogmir-validating_technique-slides.pdf)
 :	Smith, J. B. L., and E. Chew. 12 August 2016. "Validating a technique for post-hoc estimation of a listener's focus in music structure analysis." Oral presentation at [CogMIR](http://www.cogmir.org/) (Cognitively Based Music Informatics Research), satellite event of ISMIR, New York, NY.
