@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Menard's Quixote and Suno's Carey
+title: On Suno and rewriting the *Quixote*
 ---
-
 
 Last year, Suno and Udio released products that generate songs based on user prompts. They are both based on large language models (LLMs), neural networks that are good at synthesising all kinds of data, when trained on large enough datasets. To build these models, Suno and Udio likely would have needed millions of high-quality examples: audio, lyrics and metadata for real music composed by real artists. So, the launch of these products raised red flags for those in the industry: what data did they use? If it was copyrighted, was this use of the data permissible? And if the models were somehow using bits of copyrighted music to build new pieces of music, was this plagiarism?
 
@@ -14,7 +13,7 @@ The RIAA complaint cites examples of prompts that can lead Suno to plagiarise we
 
 Suno puts up minimal defenses against plagiarism: their terms of service forbid you from entering copyrighted lyrics, and if you enter artists' names as prompts, the model tends not to sound exactly like them. However, the system does not complain if you enter copyrighted lyrics, and the part of the model that interprets the prompt seems easily tricked into producing soundalike vocals. The odd spacing of "m a r i a h c a r e y" is one strategy; [Newton-Rex's investigation](https://www.musicbusinessworldwide.com/suno-is-a-music-ai-company-aiming-to-generate-120-billion-per-year-newton-rex/) found that prompts like "beminem" and "blank-184" also worked.
 
-### Retrieval vs. synthesis
+### Retrieval vs. generation
 
 Suppose you're asked to fill in the blank — "The capital of France is `_____`" — and you write down the word "Paris". You might imagine that somewhere in your brain, the 'answer' to the question was 'stored', and you 'retrieved' it. Some people imagine that if GPT4 (one of the LLMs used in ChatGPT) were prompted to fill in the same blank, it would do the same: find a datasheet about world nations, look up "France", and 'retrieve' the word in the "capital" column. This is not how it works. GPT4 is a *generative* model: given an input sequence of words, the model predicts which word is most likely to come next, and continues the process iteratively. For the capital of France prompt, it might generate the token "Paris" with the highest probability (say, 97%), even though other continuations are possible (we might, with probability 0.1%, write the sentence "The capital of France is located on the Seine").
 
