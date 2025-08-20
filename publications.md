@@ -34,6 +34,9 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Peer-reviewed conference articles:
 
+[PDF]({{ site.assetsurl }}/bajaj2024-educon-tool_detecting_similarity.pdf), [BIB]({{ site.assetsurl }}/bajaj2024-educon-tool_detecting_similarity.bib)
+: Bajaj, N., D. Chiotis, R. Moosaei, J. B. L. Smith, P. Fan and J. Carrión. 2025. A tool for detecting similarities in Jupyter Notebooks used as assessment reports. In *Proceedings of the IEEE Global Engineering Education Conference (EDUCON)*.
+
 [PDF]({{ site.assetsurl }}/chen2024-ismir-sympac_scalable_symbolic.pdf), [BIB]({{ site.assetsurl }}/chen2024-ismir-sympac_scalable_symbolic.bib)
 : Chen, H., J. B. L. Smith, B. Li, J.-C. Wang, J. Spijkervet, P. Zou, X. Du, and Q. Kong. 2024. SymPAC: Scalable symbolic music generation with prompts and constraints. To appear in *Proceedings of the International Society for Music Information Retrieval Conference (ISMIR)*.
 
