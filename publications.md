@@ -38,7 +38,7 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 : Bajaj, N., D. Chiotis, R. Moosaei, J. B. L. Smith, P. Fan and J. Carrión. 2025. A tool for detecting similarities in Jupyter Notebooks used as assessment reports. In *Proceedings of the IEEE Global Engineering Education Conference (EDUCON)*.
 
 [PDF]({{ site.assetsurl }}/chen2024-ismir-sympac_scalable_symbolic.pdf), [BIB]({{ site.assetsurl }}/chen2024-ismir-sympac_scalable_symbolic.bib)
-: Chen, H., J. B. L. Smith, B. Li, J.-C. Wang, J. Spijkervet, P. Zou, X. Du, and Q. Kong. 2024. SymPAC: Scalable symbolic music generation with prompts and constraints. To appear in *Proceedings of the International Society for Music Information Retrieval Conference (ISMIR)*.
+: Chen, H., J. B. L. Smith, B. Li, J.-C. Wang, J. Spijkervet, P. Zou, X. Du, and Q. Kong. 2024. SymPAC: Scalable symbolic music generation with prompts and constraints. In *Proceedings of the International Society for Music Information Retrieval Conference (ISMIR)*.
 
 [PDF]({{ site.assetsurl }}/zhang2022-ismir-modeling_rhythm_lyrics.pdf), [BIB]({{ site.assetsurl }}/zhang2022-ismir-modeling_rhythm_lyrics.bib)
 : Zhang, D., J.-C. Wang, K. Kosta, J. B. L. Smith, and S. Zhou. 2022. Modeling the rhythm from lyrics for melody generation of pop songs. In *Proceedings ISMIR*. 141--8.
