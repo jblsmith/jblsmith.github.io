@@ -1,8 +1,7 @@
 ---
 layout: page
+title: What I do
 ---
-
-## What I do
 
 Hi! I'm Jordan and I'm a lecturer and research at [Queen Mary University of London](https://www.qmul.ac.uk/) specialising in Computer Science and Music.
 
