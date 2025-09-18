@@ -1,0 +1,91 @@
+<head>
+	<style>
+		.labelbox {
+			background-color: powderblue;
+			float: left;
+			width: 40%;
+			font-family: sans-serif;
+			text-align: center;
+			margin: 0 2em;
+		}
+		.textbox {
+			background-color: powderblue;
+			float: left;
+			width: 25%;
+			height: 4em;
+			line-height: 4em; 
+			font-size: 2em;
+			font-family: sans-serif;
+			text-align: center;
+			margin: 1em;
+		}
+	</style>
+</head>
+
+<!-- <div class="labelbox">
+	<p>Input your company name:</p>
+</div>
+
+<div class="labelbox">
+	<p>Here's your new AI-ready company "nAIme":</p>
+</div>
+ --> 
+
+<div onload="updateValue()">
+	<input class="textbox" id="company_input" style="background-color:lightgrey;" value="Enter your company name here">
+</div>
+<div>
+	<button class="textbox" onclick="updateValue()"> → MAKE IT AI →</button>
+</div>
+<div class="textbox" id="output_container" style=" background-color:pink;">
+	<div id="output">
+	</div>
+</div>
+<script>
+// select element input
+const input = document.querySelector('input');
+
+// event listener invoke when something change in input
+// input.addEventListener('input', updateValue);
+
+// method 
+function updateValue(e) {
+	document.getElementById("output").innerHTML = aiify_companyname(document.getElementsByTagName('input')[0].value);
+}
+
+
+function aiify_companyname(companyName) {
+	lowercase_company = companyName.toLowerCase()
+	if (lowercase_company.includes("y")) {
+		ai_index = lowercase_company.lastIndexOf("y")
+		firstHalf = companyName.slice(0, ai_index)
+		secondHalf = companyName.slice(ai_index+1)
+	} else if (lowercase_company.includes("ai")) {
+		ai_index = lowercase_company.lastIndexOf("ai")
+		firstHalf = companyName.slice(0, ai_index)
+		secondHalf = companyName.slice(ai_index+2)
+	} else if (lowercase_company.includes("al")) {
+		ai_index = lowercase_company.lastIndexOf("al")
+		firstHalf = companyName.slice(0, ai_index)
+		secondHalf = companyName.slice(ai_index+2)
+	} else if (lowercase_company.includes("a")) {
+		ai_index = lowercase_company.lastIndexOf("a")
+		firstHalf = companyName.slice(0, ai_index)
+		secondHalf = companyName.slice(ai_index+1)
+	} else if (lowercase_company.includes("i")) {
+		ai_index = lowercase_company.lastIndexOf("i")
+		firstHalf = companyName.slice(0, ai_index)
+		secondHalf = companyName.slice(ai_index+1)
+	} else {
+		firstHalf = companyName.concat(".")
+		secondHalf = ""
+	}
+	newCompanyName = "".concat(firstHalf, "<strong><u>AI</u></strong>", secondHalf)
+	if (newCompanyName === ".<strong>AI</strong>") {
+		newCompanyName = "";
+	}
+	return newCompanyName;
+}
+
+// updateValue()
+</script>
