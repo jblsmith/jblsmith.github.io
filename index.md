@@ -3,9 +3,9 @@ layout: page
 title: What I do
 ---
 
-Hi! I'm Jordan and I'm a lecturer and research at [Queen Mary University of London](https://www.qmul.ac.uk/) specialising in Computer Science and Music.
+Hi! I'm Jordan and I'm a lecturer and researcher at [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/) specialising in Computer Science and Music.
 
-I teach within Queen Mary School Hainan, which means I make four 2-week trips to China per year to give lectures. In Fall 2024, I developed and delivered a new module on *Introduction to Digital Audio*; in Spring 2025, I am updating and delivering a module on *Introduction to Data Science Programming*.
+I deliver my teaching at Queen Mary School Hainan, one of several overseas campuses operated by QMUL. I developed a new module on *Introduction to Digital Audio* and have delivered modules on *Introduction to Data Science Programming* and *Exploratory Data Analysis*.
 
 I like to build tools or interfaces for playing with music---like [Unmixer](https://unmixer.ongaaccel.jp/), a website for extracting and remixing loops; or the [CrossSong](https://staff.aist.go.jp/jun.kato/CrossSong/) puzzle, a logic puzzle that requires careful listening to solve.
 

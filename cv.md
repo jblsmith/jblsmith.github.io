@@ -19,7 +19,11 @@ permalink: /cv/
 
 ## Work experience
 
-Jan. 2020--present
+Jun. 2024--present
+: [Lecturer in Audio Signal Processing](https://www.qmul.ac.uk/spcs/staff/academics/profiles/jsmith.html) for [Queen Mary University of London](https://www.qmul.ac.uk/) in the [Queen Mary School Hainan team](https://www.qmul.ac.uk/spcs/hainan/). London, UK.
+
+
+Jan. 2020--Oct. 2023
 : Research scientist for [TikTok](https://www.tiktok.com/) in the SAMI team (Speech, Audio and Music Intelligence). London, UK.
 
 Feb. 2018--Oct. 2018
@@ -120,7 +124,10 @@ June 2006
 
 ## Conferences and workshops
 
-#### Workshop organising
+#### Workshop organising and professional membership
+
+2026--present
+:	**Editorial Board member** of the [Transactions of the International Society for Music Information Retrieval (TISMIR)](https://transactions.ismir.net).
 
 2019--2022
 :	**Co-organiser** of the 2nd--5th annual [WiMIR Workshops](https://wimir.wordpress.com/).
@@ -131,9 +138,6 @@ Nov. 7–12, 2021
 Oct. 11--15, 2020
 :	**Satellite Events co-chair** with Finn Upham for ISMIR 2020.
 <br>Co-ordinated the Hacking Audio and Music Research Hackathon [HAMR 2020](https://www.ismir2020.net/hamr/)
-
-Dec. 17, 2019
-:	DMRN+14: Digital Music Research Network One-day Workshop. London, UK.
 
 Feb. 13--15, 2015
 :	**Publication chair** for [Mathemusical Conversations: Mathematics and Computation in Music Performance and Composition](https://imsarchives.nus.edu.sg/oldwww/Programs/015wmusic/index.html)
@@ -148,6 +152,9 @@ Nov. 7--12, 2021
 
 Oct 11--15, 2020
 :	The 21st ISMIR. Montréal, QC, Canada (held virtually).
+
+Dec. 17, 2019
+:	DMRN+14: Digital Music Research Network One-day Workshop. London, UK.
 
 Nov. 4--8, 2019
 :	The 20th ISMIR. Delft, Netherlands.
