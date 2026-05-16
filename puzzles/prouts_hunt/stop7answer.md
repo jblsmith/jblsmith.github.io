@@ -8,7 +8,7 @@ Each of the songs on the mix CD is an automatic reconstruction of one song using
 
 **Artist**		| **Song being reconstructed**	| **Source song**
 Feist			| I Feel It All					| 1, 2, 3, 4
-Lady Gage		| Born This Way					| Edge of Glory
+Lady Gaga		| Born This Way					| Edge of Glory
 Interpol		| Narc							| Public Pervert
 Phoenix			| Lisztomania					| 1901
 Michael Jackson	| I Want You Back				| Don't Stop 'Til You Get Enough
