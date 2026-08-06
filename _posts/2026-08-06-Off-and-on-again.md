@@ -3,13 +3,13 @@ layout: post
 title: Off and on again
 ---
 
+In the film [*Jurassic Park*](https://en.wikipedia.org/wiki/Jurassic_Park_(film)), Nedry (Wayne Knight) infects the park's computer network with a worm so that he can steal dinosaur embryos and escape from the island. Chaos ensues, and Arnold (Samuel L. Jackson) chainsmokes through the night to get the network back online. He is unsuccessful, and figures that the only way to restore the security system is to reboot the whole network.
+
 <style>
 h3 {text-align: center}
 </style>
 
 ### Reboot the system
-
-In the film [*Jurassic Park*](https://en.wikipedia.org/wiki/Jurassic_Park_(film)), Nedry (Wayne Knight) infects the park's computer network with a worm so that he can steal dinosaur embryos and escape from the island. Chaos ensues, and Arnold (Samuel L. Jackson) chainsmokes through the night to get the network back online. He is unsuccessful, and figures that the only way to restore the security system is to reboot the whole network.
 
 For as long as we have had computers, we have encountered errors and had to restart the machines to fix them. The key combination "CTRL-ALT-DEL" was one of the first things I learned about our family computer. The arbitrary combination of keys felt like a secret code from a video game, and indeed it was mostly invoked to shut down misbehaving games. Of course, sometimes the keyboard could freeze along with the computer, necessitating a hard reboot: reaching behind the machine to flick the power switch off and on again.
 
