@@ -34,7 +34,10 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 ### Peer-reviewed conference articles:
 
-[PDF]({{ site.assetsurl }}/bajaj2024-educon-tool_detecting_similarity.pdf), [BIB]({{ site.assetsurl }}/bajaj2024-educon-tool_detecting_similarity.bib)
+[PDF]({{ site.assetsurl }}/esquivel2025-cmmr-beyond_the_beats.pdf), [BIB]({{ site.assetsurl }}/esquivel2025-cmmr-beyond_the_beats.bib)
+: Esquivel, J. A. and J. B. L. Smith. 2025. Beyond the beats: Can downbeat trackers predict hypermetre? In *Proceedings of the International Symposium on Computer Music Multidisciplinary Research (CMMR)*. 807--16.
+
+[PDF]({{ site.assetsurl }}/bajaj2025-educon-tool_detecting_similarity.pdf), [BIB]({{ site.assetsurl }}/bajaj2025-educon-tool_detecting_similarity.bib)
 : Bajaj, N., D. Chiotis, R. Moosaei, J. B. L. Smith, P. Fan and J. Carrión. 2025. A tool for detecting similarities in Jupyter Notebooks used as assessment reports. In *Proceedings of the IEEE Global Engineering Education Conference (EDUCON)*.
 
 [PDF]({{ site.assetsurl }}/chen2024-ismir-sympac_scalable_symbolic.pdf), [BIB]({{ site.assetsurl }}/chen2024-ismir-sympac_scalable_symbolic.bib)
