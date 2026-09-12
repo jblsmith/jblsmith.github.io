@@ -9,6 +9,7 @@ permalink: /publications/
 - [Peer-reviewed full text](#peer-reviewed-conference-articles)
 - [Peer-reviewed abstract](#peer-reviewed-conference-presentations-on-the-basis-of-an-abstract)
 - [Theses](#theses)
+- [Patents](#patents)
 - [Other writings and presentations](#other-writings-and-presentations)
 
 For citation statistics, please visit [Google Scholar](https://scholar.google.com/citations?user=XsofCnQAAAAJ).
@@ -155,6 +156,14 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 
 [Poster]({{ site.assetsurl }}/smith2010-smt-comparison_and_evaluation-poster.pdf)
 :	Smith, J. B. L., and I. Fujinaga. 2010. "A comparison and evaluation of approaches to the automatic formal analysis of musical audio." Poster presentation given at the joint AMS/SMT 2010 Annual Meeting, Indianapolis, IN.
+
+### Patents:
+
+[PDF]({{ site.assetsurl }}/rashid2026-patent-video_remixing_method.pdf), [BIB]({{ site.assetsurl }}/rashid2026-patent-video_remixing_method.bib), [Link](https://patents.google.com/patent/US12567445B2)
+:	Rashid, I., J. B. L. Smith, F. Smith and E. Newton-Rex. 2026. Video remixing method. U.S. Patent No. 12,567,445. Assigned to Lemon Inc Cayman Island. Submitted to USPO 2022; granted 2026; expires 2042. Patent pending in China.
+
+[PDF]({{ site.assetsurl }}/wang2024-patent-supervised_metric_learning.pdf), [BIB]({{ site.assetsurl }}/wang2024-patent-supervised_metric_learning.bib), [Link](https://patents.google.com/patent/US12106740B2)
+:	Wang, J.-C., J. B. L. Smith, and W. T. Lu. 2024. Supervised metric learning for music structure features. U.S. Patent No. 12,106,740. Assigned to Lemon Inc Cayman Island. Submitted to USPO 2021; granted 2024; expires 2042. Patent pending in China.
 
 ### Theses:
 
