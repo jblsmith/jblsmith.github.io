@@ -35,37 +35,37 @@ For citation statistics, please visit [Google Scholar](https://scholar.google.co
 ### Peer-reviewed conference articles:
 
 [PDF]({{ site.assetsurl }}/esquivel2025-cmmr-beyond_the_beats.pdf), [BIB]({{ site.assetsurl }}/esquivel2025-cmmr-beyond_the_beats.bib)
-: Esquivel, J. A. and J. B. L. Smith. 2025. Beyond the beats: Can downbeat trackers predict hypermetre? In *Proceedings of the International Symposium on Computer Music Multidisciplinary Research (CMMR)*. 807--16.
+: Esquivel, J. A. and J. B. L. Smith. 2025. Beyond the beats: Can downbeat trackers predict hypermetre? In *Proceedings of the International Symposium on Computer Music Multidisciplinary Research (CMMR)*. London, UK. 807--16.
 
 [PDF]({{ site.assetsurl }}/bajaj2025-educon-tool_detecting_similarity.pdf), [BIB]({{ site.assetsurl }}/bajaj2025-educon-tool_detecting_similarity.bib)
-: Bajaj, N., D. Chiotis, R. Moosaei, J. B. L. Smith, P. Fan and J. Carrión. 2025. A tool for detecting similarities in Jupyter Notebooks used as assessment reports. In *Proceedings of the IEEE Global Engineering Education Conference (EDUCON)*.
+: Bajaj, N., D. Chiotis, R. Moosaei, J. B. L. Smith, P. Fan and J. Carrión. 2025. A tool for detecting similarities in Jupyter Notebooks used as assessment reports. In *Proceedings of the IEEE Global Engineering Education Conference (EDUCON)*. London, UK.
 
 [PDF]({{ site.assetsurl }}/chen2024-ismir-sympac_scalable_symbolic.pdf), [BIB]({{ site.assetsurl }}/chen2024-ismir-sympac_scalable_symbolic.bib)
-: Chen, H., J. B. L. Smith, B. Li, J.-C. Wang, J. Spijkervet, P. Zou, X. Du, and Q. Kong. 2024. SymPAC: Scalable symbolic music generation with prompts and constraints. In *Proceedings of the International Society for Music Information Retrieval Conference (ISMIR)*.
+: Chen, H., J. B. L. Smith, B. Li, J.-C. Wang, J. Spijkervet, P. Zou, X. Du, and Q. Kong. 2024. SymPAC: Scalable symbolic music generation with prompts and constraints. In *Proceedings of the International Society for Music Information Retrieval Conference (ISMIR)*. San Francisco, CA, USA. 1029--36.
 
 [PDF]({{ site.assetsurl }}/zhang2022-ismir-modeling_rhythm_lyrics.pdf), [BIB]({{ site.assetsurl }}/zhang2022-ismir-modeling_rhythm_lyrics.bib)
-: Zhang, D., J.-C. Wang, K. Kosta, J. B. L. Smith, and S. Zhou. 2022. Modeling the rhythm from lyrics for melody generation of pop songs. In *Proceedings ISMIR*. 141--8.
+: Zhang, D., J.-C. Wang, K. Kosta, J. B. L. Smith, and S. Zhou. 2022. Modeling the rhythm from lyrics for melody generation of pop songs. In *Proceedings ISMIR*. Bengaluru, India. 141--8.
 
 [IEEE site](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747252), [PDF pre-print]({{ site.assetsurl }}/wang2022-icassp-catch_chorus_verse.pdf), [BIB]({{ site.assetsurl }}/wang2022-icassp-catch_chorus_verse.bib)
-: Wang, J.-C., Y.-N. Hung, and J. B. L. Smith. 2022. To catch a chorus, verse, intro, or anything else: Analyzing a song with structural functions. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 416--20.
+: Wang, J.-C., Y.-N. Hung, and J. B. L. Smith. 2022. To catch a chorus, verse, intro, or anything else: Analyzing a song with structural functions. In *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. Singapore. 416--20.
 
 [PDF]({{ site.assetsurl }}/wang2021-ismir-supervised_metric_learning.pdf), [BIB]({{ site.assetsurl }}/wang2021-ismir-supervised_metric_learning.bib)
-: Wang, J.-C., J. B. L. Smith, W.-T. Lu, and X. Song. 2021. Supervised metric learning for music structure features. In *Proceedings of ISMIR*. 730--37.
+: Wang, J.-C., J. B. L. Smith, W.-T. Lu, and X. Song. 2021. Supervised metric learning for music structure features. In *Proceedings of ISMIR*. Virtual location. 730--37.
 
 [PDF](https://arxiv.org/pdf/2103.14253.pdf), [BIB]({{ site.assetsurl }}/wang2021-icassp-supervised_chorus_detection.bib)
-: Wang, J.-C., J. B. L. Smith, J. Chen, X. Song, and Y. Wang. 2021. Supervised chorus detection for popular music using convolutional neural network and multi-task learning. In *Proceedings of ICASSP*. 566--70.
+: Wang, J.-C., J. B. L. Smith, J. Chen, X. Song, and Y. Wang. 2021. Supervised chorus detection for popular music using convolutional neural network and multi-task learning. In *Proceedings of ICASSP*. Virtual location. 566--70.
 
 [PDF](https://arxiv.org/pdf/2103.14208), [BIB]({{ site.assetsurl }}/huang2021-aaai-modeling_compatibility_stem.bib)
-: Huang, J., J.-C Wang, J. B. L. Smith, X. Song, and Y. Wang. 2021. Modeling the compatibility of stem tracks to generate music mashups. In *Proceedings of the AAAI Conference on Artificial Intelligence*. 187--95.
+: Huang, J., J.-C Wang, J. B. L. Smith, X. Song, and Y. Wang. 2021. Modeling the compatibility of stem tracks to generate music mashups. In *Proceedings of the AAAI Conference on Artificial Intelligence*. Virtual location. 187--95.
 
 [PDF]({{ site.assetsurl }}/chen2020-ismir-neural_loop_combiner.pdf), [BIB]({{ site.assetsurl }}/chen2020-ismir-neural_loop_combiner.bib), [Video](https://youtu.be/Id-vpCEJeS8)
-: Chen, B.-Y., J. B. L. Smith, and Y.-H. Yang. 2020. Neural Loop Combiner: Neural network models for assessing the compatibility of loops. In *Proceedings of ISMIR*. 424--31. Montreal, QC, Canada.
+: Chen, B.-Y., J. B. L. Smith, and Y.-H. Yang. 2020. Neural Loop Combiner: Neural network models for assessing the compatibility of loops. In *Proceedings of ISMIR*. Montreal, QC, Canada. 424--31.
 
 [PDF]({{ site.assetsurl }}/ramires2020-ismir-freesound_loop_dataset.pdf), [BIB]({{ site.assetsurl }}/ramires2020-ismir-freesound_loop_dataset.bib), [Video](https://youtu.be/iGj9RF21qGk)
-: Ramires, A., F. Font, D. Bogdanov, J. B. L. Smith, Y.-H. Yang, J. Ching, B.-Y. Chen, Y.-K. Wu, H. Wei-Han, and X. Serra. 2020. The Freesound Loop Dataset and annotation tool. In *Proceedings of ISMIR*. 287--94. Montreal, QC, Canada.
+: Ramires, A., F. Font, D. Bogdanov, J. B. L. Smith, Y.-H. Yang, J. Ching, B.-Y. Chen, Y.-K. Wu, H. Wei-Han, and X. Serra. 2020. The Freesound Loop Dataset and annotation tool. In *Proceedings of ISMIR*. Montreal, QC, Canada. 287--94.
 
 [PDF]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface.pdf), [BIB]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface.bib), [Slides]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface-slides.pdf), [Poster]({{ site.assetsurl }}/smith2019-ismir-unmixer_interface-slides.pdf), [Website](https://unmixer.ongaaccel.jp/)
-: Smith, J. B. L., Y. Kawasaki, and M. Goto. 2019. Unmixer: An interface for extracting and remixing loops. In *Proceedings of ISMIR*. 824--31. Delft, Netherlands.
+: Smith, J. B. L., Y. Kawasaki, and M. Goto. 2019. Unmixer: An interface for extracting and remixing loops. In *Proceedings of ISMIR*. Delft, Netherlands. 824--31.
 
 [PDF]({{ site.assetsurl }}/smith2018-icassp-nonnegative_tensor_factorization.pdf), [BIB]({{ site.assetsurl }}/smith2018-icassp-nonnegative_tensor_factorization.bib)
 : Smith, J. B. L., and M. Goto. 2018. Nonnegative tensor factorization for source separation of loops in audio. In *Proceedings of ICASSP*. Calgary, AB, Canada. 171--5.
